@@ -13,7 +13,7 @@ DefaultContentLanguageInSubdir = true
     languageName = "Korean"
     title = "로코딩"
     [languages.kr.params]
-      introTitle = "안녕하세요! 소프트웨어 개발자 남궁입니다 👋"
+      introTitle = "안녕하세요! 소프트웨어 개발자 남궁민입니다 👋"
       introSubtitle = "주니어 백엔드 개발자로 일하고 있으며, AWS 기술 및 Kotlin/Spring 기술에 관심이 많습니다 😁"
       introPhoto = "/avatar.jpg"
       logo = "/blist-logo.png"
