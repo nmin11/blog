@@ -1,0 +1,172 @@
+baseurl = "https://nmin11.github.io"
+metaDataFormat = "yaml"
+title = "Lokoding"
+theme = "blist"
+
+DefaultContentLanguage = "kr"
+DefaultContentLanguageInSubdir = true
+[languages]
+
+  [languages.kr]
+    contentDir = "content/kr" # Korean
+    weight = 1
+    languageName = "Korean"
+    title = "로코딩"
+    [languages.kr.params]
+      introTitle = "안녕하세요! 소프트웨어 개발자 남궁입니다 👋"
+      introSubtitle = "주니어 백엔드 개발자로 일하고 있으며, AWS 기술 및 Kotlin/Spring 기술에 관심이 많습니다 😁"
+      introPhoto = "/avatar.jpg"
+      logo = "/blist-logo.png"
+    [[languages.kr.menu.main]]
+        name = "블로그"
+        url = "blog"
+        weight = 1
+
+    [[languages.kr.menu.main]]
+        name = "소개"
+        url = "page/about/"
+        weight = 2
+
+    [[languages.kr.menu.main]]
+        name = "태그"
+        url = "tags"
+        weight = 3
+
+  [languages.en]
+    contentDir = "content/en" #English
+    weight = 2
+    languageName = "English"
+    [languages.en.params]
+      introTitle = "Hey! I'm Loko 👋"
+      introSubtitle = "Junior backend developer who is interested in AWS technology and Kotlin/Spring 😁"
+      introPhoto = "/avatar.jpg"
+      logo = "/blist-logo.png"
+    [[languages.en.menu.main]]
+        name = "Blog"
+        url = "blog"
+        weight = 1
+
+    [[languages.en.menu.main]]
+        name = "About"
+        url = "page/about/"
+        weight = 2
+
+    [[languages.en.menu.main]]
+        name = "Tags"
+        url = "tags"
+        weight = 3
+
+[params]
+  # Enable the darkmode toggle in header
+  darkModeToggle = true
+  
+  # Enable search in header
+  enableSearch = true
+
+  # Option to customize the search parameters of a page
+  # Below are the supported options; Note that including entire content
+  # may slowdown the loading of search results
+  # Title of page is included by default
+  searchKeys = [
+    "tags",
+    "date",
+    "categories",
+    "summary",
+    "content",
+    "link",
+    "author"
+  ]
+
+  # Custom copyright - optional
+  copyright = "Copyright © 2023 - Loko · All rights reserved"
+  favicon = "/favicon.svg"
+
+  # Color for the intro details and social links block, not applicable for dark mode
+  # Supported values: Any color from TailwindCSS default colors
+  # Reference: https://tailwindcss.com/docs/customizing-colors
+  ascentColor = "bg-blue-100"
+
+  # The page bundle that is shown on the front page
+  frontBundle = "blog"
+
+  # Used to hide the post metadata such as posted date, reading time and word count
+  # Can be used at site level or page level
+  hideMeta = false
+
+  # To hide "Other languages" option if the post is available in multiple languages
+  # Can be used at site level or page level
+  hideOtherLanguages = false
+
+  # Add support for Table of contents
+  # Can be added to a page level also in markdown frontmatter
+  toc = true
+
+  # Hides the thumbnail in post view
+  # Thumbnails in home and blog pages will still be shown
+  # This setting can also be in page's markdown file
+  hidePageThumbnail = false
+
+# Comments system
+[params.comments]
+  # Supports disqus, giscus and utterances
+  # Check hugo docs for setting up disqus
+  system = "utterances"
+
+  # Options for giscus, exclude hyphens
+  # repo = ""
+  # repoid = ""
+  # category = ""
+  # categoryid = ""
+  # mapping = ""
+  # strict = ""
+  # reactionsenabled = ""
+  # emitmetadata = ""
+  # inputposition = ""
+  # theme = ""
+
+  # Options for utterances, exclude hyphens
+  repo = "nmin11/nmin11.github.io"
+  issueterm = "title"
+  theme = "github-light"
+
+[params.homepage.social]
+  # Global params common for both languages
+  title = "Follow me"
+  description = "I love communications and community activities"
+
+  [[params.homepage.social.icons]]
+    website = "github"
+    url = "https://github.com/nmin11"
+  [[params.homepage.social.icons]]
+    website = "tistory"
+    url = "https://loko1124.tistory.com/"
+  [[params.homepage.social.icons]]
+    website = "linkedin"
+    url = "https://www.linkedin.com/in/%EB%AF%BC-%EB%82%A8%EA%B6%81-5b1054265/"
+  [[params.homepage.social.icons]]
+    website = "youtube"
+    url = "https://www.youtube.com/channel/UCnZPXm6ka7f1iSEZsPZ7zCw"
+  [[params.homepage.social.icons]]
+    website = "instagram"
+    url = "https://www.instagram.com/nmin55/"
+  [[params.homepage.social.icons]]
+    website = "facebook"
+    url = "https://www.facebook.com/profile.php?id=100003505002673"
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+
+[build]
+  writeStats = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark.renderer]
+    # Enable to include inline HTML
+    unsafe = true
