@@ -24,7 +24,7 @@ DefaultContentLanguageInSubdir = true
 
     [[languages.kr.menu.main]]
         name = "소개"
-        url = "page/about/"
+        url = "about"
         weight = 2
 
     [[languages.kr.menu.main]]
@@ -48,7 +48,7 @@ DefaultContentLanguageInSubdir = true
 
     [[languages.en.menu.main]]
         name = "About"
-        url = "page/about/"
+        url = "about"
         weight = 2
 
     [[languages.en.menu.main]]
