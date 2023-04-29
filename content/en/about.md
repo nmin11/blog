@@ -5,7 +5,7 @@ date: 2023-02-05
 description:
 keywords: ["about-me", "introduce"]
 type: about
-lastmod: 2023-04-09
+lastmod: 2023-04-29
 ---
 
 <div class="profile-row">
@@ -103,6 +103,10 @@ I think the most necessary competency for junior developers is the metacognitive
     </ul>
   </div>
 </div>
+
+### Certificates
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="72830489-8acf-4a19-9698-a9554be23337" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <style>
   .profile-row {
