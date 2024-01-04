@@ -2,7 +2,7 @@
 author: "Loko"
 title: "Mysterious S3 Access Denied Error"
 date: 2023-07-01
-lastmod: 2023-07-01
+lastmod: 2024-01-04
 description: "Access Denied error occurred while trying to retrieve a triggered object"
 tags: ["aws", "go", "troubleshooting"]
 thumbnail: https://github.com/nmin11/blog/assets/75058239/2feabb65-8177-4614-89be-a7c66fd50034
@@ -86,3 +86,14 @@ And finally, I was able to retrieve the object successfully even if I received a
 ### Source code used for demonstration
 
 <script src="https://gist.github.com/nmin11/26204a27da20909f5c18fc851b835dcc.js"></script>
+
+---
+
+## + Added on 2024/1/4
+
+Today at work, I stumbled upon a reason as to why AWS S3 returns an Access Denied error even when the object doesn't exist.  
+It's because AWS policy doesn't let me know if the object I am looking for via `GetObject` exists or not.  
+I did a little more research after work and found [a question](https://stackoverflow.com/questions/56027399/why-am-i-getting-different-errors-when-trying-to-read-s3-key-that-does-not-exist) on StackOverflow.  
+To summarize, it's designed to prevent me from exploring whether a particular key exists when I only have `GetObject` permission but not `ListObject` permission.  
+In the example code I implemented, I had both `GetObject` and `ListObject` permissions in my local environment because I was running it directly with my AWS credentials.  
+However, when I deployed it as a Lambda, I was only granted `GetObject` permissions, which is why I was experiencing permissions issues.

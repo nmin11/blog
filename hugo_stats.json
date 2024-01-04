@@ -21,6 +21,7 @@
       "h5",
       "head",
       "header",
+      "hr",
       "html",
       "img",
       "input",
@@ -222,6 +223,8 @@
       "z-10"
     ],
     "ids": [
+      "-202414-추가",
+      "-added-on-202414",
       "-developer-who-grow-with-my-colleagues",
       "-동료와-함께-성장하는-개발자-남궁민입니다",
       "0-github-pages란",

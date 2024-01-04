@@ -2,7 +2,7 @@
 author: "Loko"
 title: "의문의 S3 Access Denied 에러"
 date: 2023-07-01
-lastmod: 2023-07-01
+lastmod: 2024-01-04
 description: "트리거된 객체를 조회하는 과정에서 발생한 Access Denied 에러"
 tags: ["aws", "go", "troubleshooting"]
 thumbnail: https://github.com/nmin11/blog/assets/75058239/2feabb65-8177-4614-89be-a7c66fd50034
@@ -84,3 +84,14 @@ Go 언어에서는 내장 모듈에서 제공하는 `url.PathUnescape` 함수가
 ### 시연을 위해 사용한 전체 소스 코드
 
 <script src="https://gist.github.com/nmin11/26204a27da20909f5c18fc851b835dcc.js"></script>
+
+---
+
+## + 2024/1/4 추가
+
+오늘 회사에서 우연히 AWS S3에서 왜 객체가 없을 때에도 Access Denied 에러를 반환하는지에 대한 이유를 알게 되었다.  
+AWS 정책상 `GetObject` 를 통해 찾으려는 객체가 존재하는지 안하는지 여부를 알려주지 않기 위해서라고 한다.  
+퇴근한 이후 조금 더 찾아보니 StackOverflow에도 [관련 질문](https://stackoverflow.com/questions/56027399/why-am-i-getting-different-errors-when-trying-to-read-s3-key-that-does-not-exist)이 있었다.  
+요약하자면, `GetObject` 권한만 있고 `ListObject` 권한은 없을 때, 특정 키가 존재하는지 여부를 탐색할 수 없게 하도록 설계되어 있다고 한다.  
+내가 구현했던 예제를 가지고 얘기해보자면, 내 로컬 환경에서는 AWS credential을 직접 가지고 실행했기 때문에 `GetObject` 및 `ListObject` 권한 둘 다 있었다.  
+하지만 Lambda로 배포했을 때는 `GetObject` 권한만 부여되었기 때문에 권한 관련 문제가 발생했던 것이다.
