@@ -5,7 +5,7 @@ date: 2023-02-05
 description:
 keywords: ["about-me", "introduce"]
 type: about
-lastmod: 2023-04-29
+lastmod: 2024-01-18
 ---
 
 <div class="profile-row">
@@ -28,7 +28,7 @@ lastmod: 2023-04-29
 
 안녕하세요! 올바른 의사소통 및 협업 문화를 통해 동료들과 함께 건강하게 성장하는 것을 최우선적으로 지향하는 개발자 남궁민입니다.  
 <br>
-저는 2022년 8월부터 주니어 개발자로서의 경력을 시작했습니다. 회사에서 AWS 클라우드 서비스 활용 기술을 익히는 데에 집중하고 있으며, Go 언어를 활용해서 개발하고 있습니다. 향후에는 백엔드 개발자로서의 역량 증진을 위해 Kotlin과 Spring 기술을 깊게 탐구할 것입니다.  
+저는 2022년 8월부터 주니어 개발자로서의 경력을 시작했습니다. 회사에서는 주로 AWS CDK를 활용한 서버리스 위주의 백엔드 개발을 경험해봤습니다. 향후에는 백엔드 개발자로서의 역량 증진을 위해 Kotlin과 Spring 기술을 깊게 탐구할 것입니다.  
 <br>
 주니어 개발자에게 가장 필요한 역량은 본인이 무엇을 할 줄 알고, 또 무엇을 할 줄 모르는지 스스로 판단할 줄 아는 메타인지 능력이라고 생각합니다. 그렇기 때문에 저는 모르는 부분을 명확하게 규명하고, 잘 정리된 질문을 통해 모르는 부분들을 해결합니다.
 
@@ -40,7 +40,7 @@ lastmod: 2023-04-29
   </div>
   <div class="stack-description">
     <h4>Kotlin (Java)</h4>
-    <p>JVM과 GC의 작동 방식에 대해 이해하고 있습니다. 제네릭 타입과 람다식을 사용하는 것에 익숙합니다. 객체지향 설계 방식을 지향합니다.</p>
+    <p>JVM과 GC의 기본적인 작동 방식에 대해 이해하고 있습니다. 제네릭 타입과 람다식을 사용하는 것에 익숙합니다. 객체지향 설계 방식을 지향합니다.</p>
   </div>
 </div>
 <div class="stack-row">
@@ -49,7 +49,7 @@ lastmod: 2023-04-29
   </div>
   <div class="stack-description">
     <h4>Spring Framework</h4>
-    <p>DI 컨테이너의 작동 방식에 대해 이해하고 있습니다. MVC 패턴에 익숙하며, JPA를 통한 DB 접근 기술 사용에 능숙합니다.</p>
+    <p>DI 컨테이너의 기본적인 작동 방식에 대해 이해하고 있습니다. MVC 패턴에 익숙하며, JPA를 통한 DB 접근 기술 사용에 능숙합니다.</p>
   </div>
 </div>
 <div class="stack-row">
@@ -58,7 +58,7 @@ lastmod: 2023-04-29
   </div>
   <div class="stack-description">
     <h4>Go</h4>
-    <p>기본적인 문법들을 활용할 수 있으며, Goroutine과 channel을 활용한 동시성 프로그래밍 방식의 원리에 대해 이해하고 있습니다. 사내에서 Agent와 CLI 애플리케이션을 제작한 경험이 있습니다.</p>
+    <p>기본적인 문법들을 활용할 수 있으며, Goroutine과 channel을 활용한 동시성 프로그래밍 방식의 원리에 대해 이해하고 있습니다.</p>
   </div>
 </div>
 <div class="stack-row">
@@ -67,7 +67,7 @@ lastmod: 2023-04-29
   </div>
   <div class="stack-description">
     <h4>TypeScript (JavaScript)</h4>
-    <p>ECMAScript 최신 문법 활용에 익숙합니다. 타입 세이프한 개발 방식을 지향합니다. Node.js와 React.js를 활용해서 기본적인 애플리케이션을 제작할 수 있습니다.</p>
+    <p>타입 세이프한 개발 방식을 지향합니다. Node.js와 React.js를 활용해서 기본적인 애플리케이션을 제작할 수 있습니다.</p>
   </div>
 </div>
 
@@ -82,12 +82,37 @@ lastmod: 2023-04-29
   <div class="experience-details">
     <ul class="experience-tasks">
       <li>엘리베이터 TV 옥외 광고 서비스</li>
-      <li>Go 언어를 활용해서 RBAC 기반의 인증/인가 프로젝트 개발</li>
       <li>AWS CDK를 활용해서 기존의 레거시 시스템을 대체하는 신규 MVP를 서버리스 환경으로 개발</li>
-      <li>Skill Keywords: AWS, Go, Kotlin, TypeScript</li>
+      <li>Skill Keywords: AWS, TypeScript, Go, Kotlin</li>
     </ul>
   </div>
 </div>
+
+**업무 경험**
+
+엘리베이터 TV 설치리스트 데이터 마이그레이션 작업
+
+- 2023.12 ~
+- Python, AWS MWAA 및 Athena 활용
+- 엘리베이터 TV가 설치된 주소, 디바이스 정보, 계약, 고객 데이터를 취합하는 작업
+
+재고자산 관리 시스템 개발
+
+- 2023.6 ~ 2023.11
+- Go, AWS CDK 및 Lambda 활용
+- SAP ERP 시스템과 연동되는 디바이스 재고 관리 시스템 개발
+
+사용자 인증/인가 시스템 개발
+
+- 2023.3 ~ 2023.5
+- AWS CDK 및 ECS를 활용한 서버 구축, Go를 활용한 Agent 개발
+- RBAC(Role Based Access Control) 기반의 인증/인가 시스템 개발
+
+위치 관리 및 디바이스 관리 시스템 개발
+
+- 2022.8 ~ 2023.2
+- TypeScript, AWS CDK 및 Lambda 활용
+- 엘리베이터 TV 위치 관리 서비스, 디바이스 제어 시스템 개발
 
 <h3 class="experience-company">이지식스 (MVL)</h3>
 <div class="experience-row">
@@ -98,8 +123,8 @@ lastmod: 2023-04-29
   <div class="experience-details">
     <ul class="experience-tasks">
       <li>블록체인 기반 승차 공유 서비스</li>
-      <li>MSA 환경에서 gRPC를 활용한 API 개발 경험</li>
-      <li>Skill Keywords: Kotlin, Spring, AWS, gRPC, RabbitMQ, Docker, Kubernetes</li>
+      <li>MSA 환경에서 gRPC를 활용한 API 개발</li>
+      <li>Skill Keywords: Kotlin, Spring, AWS, gRPC</li>
     </ul>
   </div>
 </div>

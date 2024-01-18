@@ -5,7 +5,7 @@ date: 2023-02-05
 description:
 keywords: ["about-me", "introduce"]
 type: about
-lastmod: 2023-04-29
+lastmod: 2024-01-18
 ---
 
 <div class="profile-row">
@@ -28,7 +28,7 @@ lastmod: 2023-04-29
 
 Hello! I'm Namgung Min, a developer who aims to grow healthy with colleagues through the right communication and collaboration culture.  
 <br>
-I started my career as a junior developer in August 2022. I am focusing on learning AWS cloud service in my company and developing it using Go language. In the future, I will deepen Kotlin and Spring to enhance my capability as a back-end developer.  
+I started my career as a junior developer in August 2022. I have experience with serverless-oriented backend development at my company, primarily utilizing AWS CDKs. In the future, I will deepen Kotlin and Spring to enhance my capability as a back-end developer.  
 <br>
 I think the most necessary competency for junior developers is the metacognitive ability to judge for themselves what they know and what they don't know. Therefore, I clarify what I don't know, and I solve what I don't know through well-organized questions.
 
@@ -88,6 +88,32 @@ I think the most necessary competency for junior developers is the metacognitive
     </ul>
   </div>
 </div>
+
+**Work Experciences**
+
+Data migration from elevator TV installation data
+
+- 2023.12 ~
+- Leverage Python, AWS MWAA, and Athena
+- Aggregate addresses, device information, contracts, and customer data
+
+Inventory asset management system
+
+- 2023.6 ~ 2023.11
+- Leverage AWS CDK, and Go
+- Develop a device inventory management system that works with SAP ERP system
+
+User authentication/authorization system
+
+- 2023.3 ~ 2023.5
+- Leverage AWS CDK, ECS, and Go
+- Develop an authentication/authorization system based on role-based access control (RBAC)
+
+Location and device management system
+
+- 2022.8 ~ 2023.2
+- Leverage AWS CDK, and TypeScript
+- Developed elevator TV location management service, device control system
 
 <h3 class="experience-company">Easi6 (MVL)</h3>
 <div class="experience-row">
