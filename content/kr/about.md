@@ -88,32 +88,6 @@ lastmod: 2024-01-18
   </div>
 </div>
 
-**업무 경험**
-
-엘리베이터 TV 설치리스트 데이터 마이그레이션 작업
-
-- 2023.12 ~
-- Python, AWS MWAA 및 Athena 활용
-- 엘리베이터 TV가 설치된 주소, 디바이스 정보, 계약, 고객 데이터를 취합하는 작업
-
-재고자산 관리 시스템 개발
-
-- 2023.6 ~ 2023.11
-- Go, AWS CDK 및 Lambda 활용
-- SAP ERP 시스템과 연동되는 디바이스 재고 관리 시스템 개발
-
-사용자 인증/인가 시스템 개발
-
-- 2023.3 ~ 2023.5
-- AWS CDK 및 ECS를 활용한 서버 구축, Go를 활용한 Agent 개발
-- RBAC(Role Based Access Control) 기반의 인증/인가 시스템 개발
-
-위치 관리 및 디바이스 관리 시스템 개발
-
-- 2022.8 ~ 2023.2
-- TypeScript, AWS CDK 및 Lambda 활용
-- 엘리베이터 TV 위치 관리 서비스, 디바이스 제어 시스템 개발
-
 <h3 class="experience-company">이지식스 (MVL)</h3>
 <div class="experience-row">
   <div class="experience-left">

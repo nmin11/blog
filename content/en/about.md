@@ -89,32 +89,6 @@ I think the most necessary competency for junior developers is the metacognitive
   </div>
 </div>
 
-**Work Experciences**
-
-Data migration from elevator TV installation data
-
-- 2023.12 ~
-- Leverage Python, AWS MWAA, and Athena
-- Aggregate addresses, device information, contracts, and customer data
-
-Inventory asset management system
-
-- 2023.6 ~ 2023.11
-- Leverage AWS CDK, and Go
-- Develop a device inventory management system that works with SAP ERP system
-
-User authentication/authorization system
-
-- 2023.3 ~ 2023.5
-- Leverage AWS CDK, ECS, and Go
-- Develop an authentication/authorization system based on role-based access control (RBAC)
-
-Location and device management system
-
-- 2022.8 ~ 2023.2
-- Leverage AWS CDK, and TypeScript
-- Developed elevator TV location management service, device control system
-
 <h3 class="experience-company">Easi6 (MVL)</h3>
 <div class="experience-row">
   <div class="experience-left">
