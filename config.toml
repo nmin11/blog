@@ -13,7 +13,7 @@ DefaultContentLanguageInSubdir = true
     languageName = "Korean"
     title = "로코"
     [languages.kr.params]
-      introTitle = "안녕하세요! 남궁민입니다 👋"
+      introTitle = "안녕하세요! 남궁민입니다"
       introSubtitle = "👶 2년차 주니어 백엔드 개발자입니다. ✍ 글을 쓰면서 생각을 정리하는 과정을 즐깁니다. 🧙 INFJ입니다. 👯 동료와 함께 성장하는 환경을 지향합니다. 😊 독서, 영화 감상, 컴퓨터 게임, 달리기를 좋아합니다."
       introPhoto = "/avatar.jpg"
       logo = "/loko-logo.png"
@@ -38,7 +38,7 @@ DefaultContentLanguageInSubdir = true
     languageName = "English"
     title = "Loko"
     [languages.en.params]
-      introTitle = "Hey! I'm Loko 👋"
+      introTitle = "Hey! I'm Loko"
       introSubtitle = "👶 I'm a junior backend developer with 2 years of experience. ✍ I enjoy the process of writing to organize my thoughts. 👯 I aspire to work in an environment where I can grow together with my colleagues. 😊 I enjoy reading books, watching movies, playing computer games, and running."
       introPhoto = "/avatar.jpg"
       logo = "/loko-logo.png"
@@ -137,23 +137,26 @@ DefaultContentLanguageInSubdir = true
   description = "email: nmin1124@gmail.com"
 
   [[params.homepage.social.icons]]
+    website = "email"
+    url = "nmin1124@gmail.com"
+  [[params.homepage.social.icons]]
     website = "github"
     url = "https://github.com/nmin11"
-  [[params.homepage.social.icons]]
-    website = "tistory"
-    url = "https://loko1124.tistory.com/"
   [[params.homepage.social.icons]]
     website = "linkedin"
     url = "https://www.linkedin.com/in/%EB%AF%BC-%EB%82%A8%EA%B6%81-5b1054265/"
   [[params.homepage.social.icons]]
-    website = "youtube"
-    url = "https://www.youtube.com/channel/UCnZPXm6ka7f1iSEZsPZ7zCw"
+    website = "tistory"
+    url = "https://loko1124.tistory.com/"
   [[params.homepage.social.icons]]
     website = "instagram"
     url = "https://www.instagram.com/nmin55/"
   [[params.homepage.social.icons]]
     website = "facebook"
     url = "https://www.facebook.com/profile.php?id=100003505002673"
+  [[params.homepage.social.icons]]
+    website = "youtube"
+    url = "https://www.youtube.com/channel/UCnZPXm6ka7f1iSEZsPZ7zCw"
 
 [[menu.main]]
   name = "About"
