@@ -105,7 +105,9 @@ lastmod: 2024-01-18
 
 ### Certificates
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="72830489-8acf-4a19-9698-a9554be23337" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/72830489-8acf-4a19-9698-a9554be23337/public_url" target="_blank">
+  <img src="https://user-images.githubusercontent.com/75058239/235272314-11c6120d-a986-4b7e-ba8f-38533948d3e0.png" width="150px" alt="aws-certified-developer-associate">
+</a>
 
 <style>
   .profile-row {
