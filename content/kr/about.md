@@ -17,20 +17,23 @@ lastmod: 2024-01-18
     <div class="contact-info">
       <p>Email: nmin1124@gmail.com</p>
       <p>Github: <a href="https://github.com/nmin11" target="_blank">https://github.com/nmin11</a></p>
-      <p>Blog: <a href="https://loko1124.tistory.com" target="_blank">https://loko1124.tistory.com</a></p>
     </div>
   </div>
 </div>
 
-## 👯 '동료와 함께 성장하는 개발자' 남궁민입니다.
+## 2년차 백엔드 개발자 남궁민입니다.
 
-### Introduce
+### 🌱 저는 회사와 함께 성장하는 경험을 하고 싶어요.
 
-안녕하세요! 올바른 의사소통 및 협업 문화를 통해 동료들과 함께 건강하게 성장하는 것을 최우선적으로 지향하는 개발자 남궁민입니다.  
-<br>
-저는 2022년 8월부터 주니어 개발자로서의 경력을 시작했습니다. 회사에서는 주로 AWS CDK를 활용한 서버리스 위주의 백엔드 개발을 경험해봤습니다. 향후에는 백엔드 개발자로서의 역량 증진을 위해 Kotlin과 Spring 기술을 깊게 탐구할 것입니다.  
-<br>
-주니어 개발자에게 가장 필요한 역량은 본인이 무엇을 할 줄 알고, 또 무엇을 할 줄 모르는지 스스로 판단할 줄 아는 메타인지 능력이라고 생각합니다. 그렇기 때문에 저는 모르는 부분을 명확하게 규명하고, 잘 정리된 질문을 통해 모르는 부분들을 해결합니다.
+회사의 비전과 함께할 때 유의미한 성장을 할 수 있다고 생각합니다. 비즈니스에 대한 공감을 바탕으로 능동성과 적극성을 갖고 일하면서 회사와 함께 성장하는 경험을 하고 싶어요.
+
+### 🙌 저는 좋은 동료가 최고의 복지라고 생각해요.
+
+좋은 동료들과 함께 일하면서 서로 좋은 점들을 배우고 성장하는 환경이 최고의 복지라고 생각합니다. 허심탄회하고 솔직한 의사소통을 기반으로 동료들과 함께 즐겁게 일하고 싶어요.
+
+### 👾 저에게는 문제를 해결해 나가는 집요함이 있어요.
+
+모든 문제(버그, 구현사항)에는 반드시 해결책이 존재한다고 생각합니다. 단순한 문제 해결을 넘어서 더 나은 해결책을 찾기 위해 끊임없이 고민하고 실행합니다.
 
 ### Stacks
 
@@ -54,20 +57,20 @@ lastmod: 2024-01-18
 </div>
 <div class="stack-row">
   <div class="stack-image">
-    <img src="/go.png" alt="Go Logo" class="stack-logo">
-  </div>
-  <div class="stack-description">
-    <h4>Go</h4>
-    <p>기본적인 문법들을 활용할 수 있으며, Goroutine과 channel을 활용한 동시성 프로그래밍 방식의 원리에 대해 이해하고 있습니다.</p>
-  </div>
-</div>
-<div class="stack-row">
-  <div class="stack-image">
     <img src="/typescript.png" alt="TypeScript Logo" class="stack-logo">
   </div>
   <div class="stack-description">
     <h4>TypeScript (JavaScript)</h4>
     <p>타입 세이프한 개발 방식을 지향합니다. Node.js와 React.js를 활용해서 기본적인 애플리케이션을 제작할 수 있습니다.</p>
+  </div>
+</div>
+<div class="stack-row">
+  <div class="stack-image">
+    <img src="/go.png" alt="Go Logo" class="stack-logo">
+  </div>
+  <div class="stack-description">
+    <h4>Go</h4>
+    <p>기본적인 문법들을 활용할 수 있으며, Goroutine과 channel을 활용한 동시성 프로그래밍 방식의 원리에 대해 이해하고 있습니다.</p>
   </div>
 </div>
 
@@ -83,7 +86,8 @@ lastmod: 2024-01-18
     <ul class="experience-tasks">
       <li>엘리베이터 TV 옥외 광고 서비스</li>
       <li>AWS CDK를 활용해서 기존의 레거시 시스템을 대체하는 신규 MVP를 서버리스 환경으로 개발</li>
-      <li>Skill Keywords: AWS, TypeScript, Go, Kotlin</li>
+      <li>Go 언어를 활용해서 RBAC 기반의 권한/인증 프로젝트 개발</li>
+      <li>Skill Keywords: AWS, TypeScript, Kotlin, Go</li>
     </ul>
   </div>
 </div>

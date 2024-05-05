@@ -17,20 +17,23 @@ lastmod: 2024-01-18
     <div class="contact-info">
       <p>Email: nmin1124@gmail.com</p>
       <p>Github: <a href="https://github.com/nmin11" target="_blank">https://github.com/nmin11</a></p>
-      <p>Blog: <a href="https://loko1124.tistory.com" target="_blank">https://loko1124.tistory.com</a></p>
     </div>
   </div>
 </div>
 
-## 👯 Developer who grow with my colleagues
+## I'm Min Namgung, a 2nd-year backend developer.
 
-### Introduce
+### 🌱 I want to experience growing with the company.
 
-Hello! I'm Namgung Min, a developer who aims to grow healthy with colleagues through the right communication and collaboration culture.  
-<br>
-I started my career as a junior developer in August 2022. I have experience with serverless-oriented backend development at my company, primarily utilizing AWS CDKs. In the future, I will deepen Kotlin and Spring to enhance my capability as a back-end developer.  
-<br>
-I think the most necessary competency for junior developers is the metacognitive ability to judge for themselves what they know and what they don't know. Therefore, I clarify what I don't know, and I solve what I don't know through well-organized questions.
+I believe that meaningful growth can be achieved when we are aligned with the company's vision. I want to experience growing with the company by working actively based on empathy for the business.
+
+### 🙌 I believe that good colleagues are the best form of wellbeing.
+
+I want to work with good colleagues and learn from each other's strengths and grow together. I want to enjoy working with colleagues based on open and honest communication.
+
+### 👾 I have a tenacity to solve problems.
+
+I believe that every problem (bug, implementation) has a solution, and I don't just fix it, I constantly think and execute to find a better solution.
 
 ### Stacks
 
@@ -54,20 +57,20 @@ I think the most necessary competency for junior developers is the metacognitive
 </div>
 <div class="stack-row">
   <div class="stack-image">
-    <img src="/go.png" alt="Go Logo" class="stack-logo">
-  </div>
-  <div class="stack-description">
-    <h4>Go</h4>
-    <p>I can use basic grammar and understand how to leverage simultaneous programming using Goroutine and channel. I have experience in creating Agent and CLI applications in-house.</p>
-  </div>
-</div>
-<div class="stack-row">
-  <div class="stack-image">
     <img src="/typescript.png" alt="TypeScript Logo" class="stack-logo">
   </div>
   <div class="stack-description">
     <h4>TypeScript (JavaScript)</h4>
     <p>I'm familiar with the latest ECMAScript grammar. I am pursuing a type-safe development. I can create basic applications using Node.js and React.js.</p>
+  </div>
+</div>
+<div class="stack-row">
+  <div class="stack-image">
+    <img src="/go.png" alt="Go Logo" class="stack-logo">
+  </div>
+  <div class="stack-description">
+    <h4>Go</h4>
+    <p>I can use basic grammar and understand how to leverage simultaneous programming using Goroutine and channel. I have experience in creating Agent and CLI applications in-house.</p>
   </div>
 </div>
 
@@ -82,9 +85,9 @@ I think the most necessary competency for junior developers is the metacognitive
   <div class="experience-details">
     <ul class="experience-tasks">
       <li>Elevator TV Advertising Service</li>
-      <li>Develop a RBAC-based authorization/authentication project using Go language</li>
       <li>Leverage AWS CDK to develop new MVP to replace legacy systems in serverless architecture</li>
-      <li>Skill Keywords: AWS, Go, Kotlin, TypeScript</li>
+      <li>Develop a RBAC-based authorization/authentication project using Go language</li>
+      <li>Skill Keywords: AWS, TypeScript, Kotlin, Go</li>
     </ul>
   </div>
 </div>
