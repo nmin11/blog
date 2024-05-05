@@ -15,8 +15,8 @@ DefaultContentLanguageInSubdir = true
     [languages.kr.params]
       introTitle = "안녕하세요! 남궁민입니다"
       introSubtitle = "👶 2년차 주니어 백엔드 개발자입니다. ✍ 글을 쓰면서 생각을 정리하는 과정을 즐깁니다. 🧙 INFJ입니다. 👯 동료와 함께 성장하는 환경을 지향합니다. 😊 독서, 영화 감상, 컴퓨터 게임, 달리기를 좋아합니다."
-      introPhoto = "/avatar.jpg"
-      logo = "/loko-logo.png"
+      introPhoto = "/avatar.webp"
+      logo = "/loko-logo.webp"
     [[languages.kr.menu.main]]
         name = "블로그"
         url = "blog"
@@ -45,8 +45,8 @@ DefaultContentLanguageInSubdir = true
     [languages.en.params]
       introTitle = "Hey! I'm Loko"
       introSubtitle = "👶 I'm a junior backend developer with 2 years of experience. ✍ I enjoy the process of writing to organize my thoughts. 👯 I aspire to work in an environment where I can grow together with my colleagues. 😊 I enjoy reading books, watching movies, playing computer games, and running."
-      introPhoto = "/avatar.jpg"
-      logo = "/loko-logo.png"
+      introPhoto = "/avatar.webp"
+      logo = "/loko-logo.webp"
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
