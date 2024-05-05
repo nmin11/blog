@@ -5,7 +5,7 @@ date: 2023-02-05
 description:
 keywords: ["about-me", "introduce"]
 type: about
-lastmod: 2024-01-18
+lastmod: 2024-05-05
 ---
 
 <div class="profile-row">
@@ -85,8 +85,9 @@ lastmod: 2024-01-18
   <div class="experience-details">
     <ul class="experience-tasks">
       <li>엘리베이터 TV 옥외 광고 서비스</li>
-      <li>AWS CDK를 활용해서 기존의 레거시 시스템을 대체하는 신규 MVP를 서버리스 환경으로 개발</li>
-      <li>Go 언어를 활용해서 RBAC 기반의 권한/인증 프로젝트 개발</li>
+      <li>광고 편성 송출 시스템 개발</li>
+      <li>RBAC 기반의 권한/인증 시스템 개발</li>
+      <li>TV 매체 재고 자산 관리 시스템 개발</li>
       <li>Skill Keywords: AWS, TypeScript, Kotlin, Go</li>
     </ul>
   </div>
@@ -95,13 +96,13 @@ lastmod: 2024-01-18
 <h3 class="experience-company">이지식스 (MVL)</h3>
 <div class="experience-row">
   <div class="experience-left">
-    <p class="experience-position">Backend Intern</p>
+    <p class="experience-positio・n">Backend Intern</p>
     <p>2022.1 ~ 2022.3</p>
   </div>
   <div class="experience-details">
     <ul class="experience-tasks">
       <li>블록체인 기반 승차 공유 서비스</li>
-      <li>MSA 환경에서 gRPC를 활용한 API 개발</li>
+      <li>MSA 환경에서 gRPC를 활용한 API 개발 경험</li>
       <li>Skill Keywords: Kotlin, Spring, AWS, gRPC</li>
     </ul>
   </div>

@@ -5,7 +5,7 @@ date: 2023-02-05
 description:
 keywords: ["about-me", "introduce"]
 type: about
-lastmod: 2024-01-18
+lastmod: 2024-05-05
 ---
 
 <div class="profile-row">
@@ -21,7 +21,7 @@ lastmod: 2024-01-18
   </div>
 </div>
 
-## I'm Min Namgung, a 2nd-year backend developer.
+## I'm Namgung Min, a 2nd-year backend developer.
 
 ### 🌱 I want to experience growing with the company.
 
@@ -85,8 +85,9 @@ I believe that every problem (bug, implementation) has a solution, and I don't j
   <div class="experience-details">
     <ul class="experience-tasks">
       <li>Elevator TV Advertising Service</li>
-      <li>Leverage AWS CDK to develop new MVP to replace legacy systems in serverless architecture</li>
-      <li>Develop a RBAC-based authorization/authentication project using Go language</li>
+      <li>Developed an advertising scheduling and broadcasting system</li>
+      <li>Developed an authorization/authentication system based on RBAC</li>
+      <li>Developed a TV media inventory asset management system</li>
       <li>Skill Keywords: AWS, TypeScript, Kotlin, Go</li>
     </ul>
   </div>
@@ -102,7 +103,7 @@ I believe that every problem (bug, implementation) has a solution, and I don't j
     <ul class="experience-tasks">
       <li>Blockchain-based Ride Sharing Service</li>
       <li>Experience of developing API using gRPC in MSA</li>
-      <li>Skill Keywords: Kotlin, Spring, AWS, gRPC, RabbitMQ, Docker, Kubernetes</li>
+      <li>Skill Keywords: Kotlin, Spring, AWS, gRPC</li>
     </ul>
   </div>
 </div>
