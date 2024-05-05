@@ -5,7 +5,7 @@ date: 2024-03-14
 lastmod: 2024-03-14
 description: "주요 가비지 컬렉션 알고리즘들에 대해 알아보자"
 tags: ["java", "study"]
-thumbnail: https://github.com/nmin11/blog/assets/75058239/fbe5a6e6-d7e5-43bb-8fc7-53dabc664471
+thumbnail: /thumbnail/garbage-collectors.webp
 toc: true
 ---
 

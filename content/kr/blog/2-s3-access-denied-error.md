@@ -5,7 +5,7 @@ date: 2023-07-01
 lastmod: 2024-01-04
 description: "트리거된 객체를 조회하는 과정에서 발생한 Access Denied 에러"
 tags: ["aws", "go", "troubleshooting"]
-thumbnail: https://github.com/nmin11/blog/assets/75058239/2feabb65-8177-4614-89be-a7c66fd50034
+thumbnail: /thumbnail/green-bucket.webp
 toc: true
 ---
 

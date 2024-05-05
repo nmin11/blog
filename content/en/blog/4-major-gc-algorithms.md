@@ -5,7 +5,7 @@ date: 2024-03-14
 lastmod: 2024-03-14
 description: "Exploring Major Garbage Collection Algorithms"
 tags: ["java", "study"]
-thumbnail: https://github.com/nmin11/blog/assets/75058239/fbe5a6e6-d7e5-43bb-8fc7-53dabc664471
+thumbnail: /thumbnail/garbage-collectors.webp
 toc: true
 ---
 

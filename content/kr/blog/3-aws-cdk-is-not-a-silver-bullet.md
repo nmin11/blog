@@ -5,7 +5,7 @@ date: 2023-08-12
 lastmod: 2023-08-12
 description: "올바른 IaC 도구 사용을 위해"
 tags: ["aws", "iac", "cdk"]
-thumbnail: https://github.com/nmin11/blog/assets/75058239/612c8a16-8b54-4358-9a99-622be1afede2
+thumbnail: /thumbnail/silver-bullet.webp
 toc: true
 ---
 

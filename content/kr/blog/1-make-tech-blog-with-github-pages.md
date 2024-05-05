@@ -5,7 +5,7 @@ date: 2023-02-11
 lastmod: 2023-02-11
 description: "Hugo + Github Pages"
 tags: ["tech", "hugo", "github"]
-thumbnail: https://user-images.githubusercontent.com/75058239/218248198-861c23ad-9eed-4240-90f3-445878f794f2.png
+thumbnail: /thumbnail/hugo-logo.webp
 toc: true
 ---
 

@@ -5,7 +5,7 @@ date: 2023-07-01
 lastmod: 2024-01-04
 description: "Access Denied error occurred while trying to retrieve a triggered object"
 tags: ["aws", "go", "troubleshooting"]
-thumbnail: https://github.com/nmin11/blog/assets/75058239/2feabb65-8177-4614-89be-a7c66fd50034
+thumbnail: /thumbnail/green-bucket.webp
 toc: true
 ---
 
