@@ -28,9 +28,14 @@ DefaultContentLanguageInSubdir = true
         weight = 2
 
     [[languages.kr.menu.main]]
+        name = "에세이"
+        url = "essay"
+        weight = 3
+
+    [[languages.kr.menu.main]]
         name = "태그"
         url = "tags"
-        weight = 3
+        weight = 4
 
   [languages.en]
     contentDir = "content/en" #English
@@ -53,9 +58,14 @@ DefaultContentLanguageInSubdir = true
         weight = 2
 
     [[languages.en.menu.main]]
+        name = "Essay"
+        url = "essay"
+        weight = 3
+
+    [[languages.en.menu.main]]
         name = "Tags"
         url = "tags"
-        weight = 3
+        weight = 4
 
 [params]
   # Enable the darkmode toggle in header
@@ -161,6 +171,10 @@ DefaultContentLanguageInSubdir = true
 [[menu.main]]
   name = "About"
   url = "/about"
+
+[[menu.main]]
+  name = "Essay"
+  url = "/essay"
 
 [build]
   writeStats = true
