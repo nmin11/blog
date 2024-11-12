@@ -80,7 +80,7 @@ lastmod: 2024-05-05
 <div class="experience-row">
   <div class="experience-left">
     <p class="experience-position">Software Development Engineer</p>
-    <p>2022.8 ~</p>
+    <p>2022.8 ~ 2024.8</p>
   </div>
   <div class="experience-details">
     <ul class="experience-tasks">
