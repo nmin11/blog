@@ -18,24 +18,19 @@ DefaultContentLanguageInSubdir = true
       introPhoto = "/avatar.webp"
       logo = "/loko-logo.webp"
     [[languages.kr.menu.main]]
-        name = "블로그"
-        url = "blog"
+        name = "소개"
+        url = "about"
         weight = 1
 
     [[languages.kr.menu.main]]
-        name = "소개"
-        url = "about"
+        name = "블로그"
+        url = "blog"
         weight = 2
 
     [[languages.kr.menu.main]]
         name = "에세이"
         url = "essay"
         weight = 3
-
-    [[languages.kr.menu.main]]
-        name = "태그"
-        url = "tags"
-        weight = 4
 
   [languages.en]
     contentDir = "content/en" #English
@@ -48,24 +43,19 @@ DefaultContentLanguageInSubdir = true
       introPhoto = "/avatar.webp"
       logo = "/loko-logo.webp"
     [[languages.en.menu.main]]
-        name = "Blog"
-        url = "blog"
+        name = "About"
+        url = "about"
         weight = 1
 
     [[languages.en.menu.main]]
-        name = "About"
-        url = "about"
+        name = "Blog"
+        url = "blog"
         weight = 2
 
     [[languages.en.menu.main]]
         name = "Essay"
         url = "essay"
         weight = 3
-
-    [[languages.en.menu.main]]
-        name = "Tags"
-        url = "tags"
-        weight = 4
 
 [params]
   # Enable the darkmode toggle in header
@@ -79,13 +69,11 @@ DefaultContentLanguageInSubdir = true
   # may slowdown the loading of search results
   # Title of page is included by default
   searchKeys = [
-    "tags",
     "date",
     "categories",
     "summary",
     "content",
-    "link",
-    "author"
+    "link"
   ]
 
   # Custom copyright - optional
