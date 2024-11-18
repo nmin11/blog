@@ -4,7 +4,7 @@ title: "의문의 S3 Access Denied 에러"
 date: 2023-07-01
 lastmod: 2024-01-04
 description: "트리거된 객체를 조회하는 과정에서 발생한 Access Denied 에러"
-tags: ["aws", "go", "troubleshooting"]
+tags: ["aws"]
 thumbnail: /thumbnail/green-bucket.webp
 toc: true
 ---

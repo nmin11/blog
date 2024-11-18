@@ -4,7 +4,7 @@ title: "주요 GC 알고리즘들"
 date: 2024-03-14
 lastmod: 2024-03-14
 description: "주요 가비지 컬렉션 알고리즘들에 대해 알아보자"
-tags: ["java", "study"]
+tags: ["java"]
 thumbnail: /thumbnail/garbage-collectors.webp
 toc: true
 ---

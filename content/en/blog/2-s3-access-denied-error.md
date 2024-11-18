@@ -4,7 +4,7 @@ title: "Mysterious S3 Access Denied Error"
 date: 2023-07-01
 lastmod: 2024-01-04
 description: "Access Denied error occurred while trying to retrieve a triggered object"
-tags: ["aws", "go", "troubleshooting"]
+tags: ["aws"]
 thumbnail: /thumbnail/green-bucket.webp
 toc: true
 ---

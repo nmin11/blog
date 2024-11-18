@@ -4,7 +4,7 @@ title: "Major GC Algorithms"
 date: 2024-03-14
 lastmod: 2024-03-14
 description: "Exploring Major Garbage Collection Algorithms"
-tags: ["java", "study"]
+tags: ["java"]
 thumbnail: /thumbnail/garbage-collectors.webp
 toc: true
 ---

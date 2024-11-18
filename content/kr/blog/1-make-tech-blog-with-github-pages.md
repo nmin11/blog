@@ -4,7 +4,6 @@ title: "Github Pages로 만드는 나만의 기술 블로그"
 date: 2023-02-11
 lastmod: 2023-02-11
 description: "Hugo + Github Pages"
-tags: ["tech", "hugo", "github"]
 thumbnail: /thumbnail/hugo-logo.webp
 toc: true
 ---

@@ -4,7 +4,7 @@ title: "AWS CDK is not a silver bullet"
 date: 2023-08-12
 lastmod: 2023-08-12
 description: "To use the appropriate IaC tool"
-tags: ["aws", "iac", "cdk"]
+tags: ["aws"]
 thumbnail: /thumbnail/silver-bullet.webp
 toc: true
 ---

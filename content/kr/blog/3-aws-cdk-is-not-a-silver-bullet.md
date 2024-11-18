@@ -4,7 +4,7 @@ title: "AWS CDK는 은탄환이 아니다"
 date: 2023-08-12
 lastmod: 2023-08-12
 description: "올바른 IaC 도구 사용을 위해"
-tags: ["aws", "iac", "cdk"]
+tags: ["aws"]
 thumbnail: /thumbnail/silver-bullet.webp
 toc: true
 ---

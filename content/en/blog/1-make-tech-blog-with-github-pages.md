@@ -4,7 +4,6 @@ title: "Make tech blog with Github Pages"
 date: 2023-02-11
 lastmod: 2023-02-11
 description: "Hugo + Github Pages"
-tags: ["tech", "hugo", "github"]
 thumbnail: /thumbnail/hugo-logo.webp
 toc: true
 ---
