@@ -42,7 +42,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
   <a href="/kr/jr-travel/1-yakushima" target="_blank" style="text-decoration: none;">
     <img src="/thumbnail/yakushima.jpg" alt="야쿠시마 썸네일">
     <div style="position: absolute; bottom: 20px; left: 50%; transform: translateX(-50%); background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px 20px; border-radius: 5px;">
-      <h3 style="margin: 0; font-size: 1.5em;">🌱 야쿠시마 여행기</h3>
+      <h3 style="margin: 0; font-size: 1.5em; color: #FFFFFF;">🌱 야쿠시마 여행기</h3>
     </div>
   </a>
 </div>

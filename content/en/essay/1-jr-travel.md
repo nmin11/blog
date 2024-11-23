@@ -42,7 +42,7 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
   <a href="/en/jr-travel/1-yakushima" target="_blank" style="text-decoration: none;">
     <img src="/thumbnail/yakushima.jpg" alt="Yakushima Thumbnail">
     <div style="position: absolute; bottom: 20px; left: 50%; transform: translateX(-50%); background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px 20px; border-radius: 5px;">
-      <h3 style="margin: 0; font-size: 1.5em;">🌱 Yakushima Travel Story</h3>
+      <h3 style="margin: 0; font-size: 1.5em; color: #FFFFFF;">🌱 Yakushima Travel Story</h3>
     </div>
   </a>
 </div>
