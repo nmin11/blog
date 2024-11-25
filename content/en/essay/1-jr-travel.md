@@ -38,11 +38,20 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
 
 <br>
 
-<div style="position: relative; text-align: center; margin-bottom: 20px;">
-  <a href="/en/jr-travel/1-yakushima" target="_blank" style="text-decoration: none;">
-    <img src="/thumbnail/yakushima.jpg" alt="Yakushima Thumbnail">
-    <div style="position: absolute; bottom: 20px; left: 50%; transform: translateX(-50%); background-color: rgba(0, 0, 0, 0.7); color: white; padding: 10px 20px; border-radius: 5px;">
-      <h3 style="margin: 0; font-size: 1.5em; color: #FFFFFF;">🌱 Yakushima Travel Story</h3>
+<div class="link-box">
+  <a href="/en/jr-travel/1-yakushima" target="_blank">
+    <img src="/thumbnail/yakushima.jpg" alt="야쿠시마 썸네일">
+    <div>
+      <h3>🌱 Yakushima<br>Travel Story</h3>
+    </div>
+  </a>
+</div>
+
+<div class="link-box">
+  <a href="/en/jr-travel/2-kagoshima" target="_blank">
+    <img src="/thumbnail/kagoshima.jpg" alt="가고시마 썸네일">
+    <div>
+      <h3>☀️ Kagoshima<br>Travel Story</h3>
     </div>
   </a>
 </div>
@@ -62,5 +71,32 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
   img:hover {
     transform: scale(1.05);
     box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+  }
+
+  .link-box {
+    position: relative;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .link-box a {
+    text-decoration: none;
+  }
+
+  .link-box div {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+
+  .link-box h3 {
+    margin: 0;
+    font-size: 1.5em;
+    color: #FFFFFF;
   }
 </style>
