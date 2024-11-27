@@ -164,6 +164,7 @@
       "p-6",
       "pb-4",
       "pb-6",
+      "photo-grid",
       "place-items-center",
       "profile-column",
       "profile-image",
@@ -198,6 +199,7 @@
       "stack-image",
       "stack-logo",
       "stack-row",
+      "summary-underline",
       "text-2xl",
       "text-3xl",
       "text-4xl",
@@ -242,6 +244,7 @@
       "TableOfContents",
       "a",
       "a-flawed-travel-plan",
+      "a-moment-to-recharge",
       "a-unique-island-unlike-anywhere-else-in-japan",
       "cdk",
       "certificates",
@@ -262,10 +265,12 @@
       "instead-of-sakurajima-a-trip-to-the-aquarium",
       "japan-it-is",
       "journey-to-yakushima",
+      "kumo-no-michi-instead-of-hikari-no-michi",
       "link-with-github-repositories-created",
       "load-barriers",
       "major-gc",
       "minor-gc",
+      "more-than-expected-in-dazaifu",
       "parallel-gc",
       "parallel-old-gc",
       "references",
@@ -289,6 +294,7 @@
       "write-a-posting-and-deploy",
       "z-gc",
       "결론",
+      "기대-이상의-컨텐츠를-가진-다자이후",
       "다시-가고시마에-돌아올-수-있을까",
       "떠나야겠다",
       "만들어둔-github-repository들과의-연동",
@@ -308,7 +314,9 @@
       "원하는-테마-고르기",
       "일본으로-가자",
       "일본인데-일본이-아닌-것-같은-섬",
-      "컨텐츠-작성-및-업로드"
+      "잠시-재정비-시간",
+      "컨텐츠-작성-및-업로드",
+      "히카리노미치-대신에-쿠모노미치"
     ]
   }
 }

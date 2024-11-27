@@ -56,6 +56,15 @@ thumbnail: /thumbnail/kagoshima-city.jpg
   </a>
 </div>
 
+<div class="link-box">
+  <a href="/kr/jr-travel/3-fukuoka" target="_blank">
+    <img src="/thumbnail/fukuoka.jpg" alt="후쿠오카 썸네일">
+    <div>
+      <h3>⛅ 후쿠오카 여행기</h3>
+    </div>
+  </a>
+</div>
+
 <div style="border: 2px dashed #ccc; padding: 10px; text-align: center; margin: 20px 0;">
   🚄 다음 여정을 기대해 주세요!
   새로운 이야기에서 만나요.

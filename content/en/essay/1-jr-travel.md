@@ -56,6 +56,15 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
   </a>
 </div>
 
+<div class="link-box">
+  <a href="/en/jr-travel/3-fukuoka" target="_blank">
+    <img src="/thumbnail/fukuoka.jpg" alt="후쿠오카 썸네일">
+    <div>
+      <h3>⛅ Fukuoka<br>Travel Story</h3>
+    </div>
+  </a>
+</div>
+
 <div style="border: 2px dashed #ccc; padding: 10px; text-align: center; margin: 20px 0;">
   🚄 Stay tuned for the next adventure!
   See you in the upcoming stories.
