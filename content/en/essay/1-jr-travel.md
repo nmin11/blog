@@ -2,7 +2,7 @@
 author: "Loko"
 title: "From Yakushima to Sapporo: A Nationwide Train Journey Across Japan"
 date: 2024-11-19
-lastmod: 2024-11-30
+lastmod: 2024-12-01
 description: "Exploring Japan with a JR Pass"
 thumbnail: /thumbnail/kagoshima-city.jpg
 ---
@@ -40,7 +40,7 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
 
 <div class="link-box">
   <a href="/en/jr-travel/1-yakushima" target="_blank">
-    <img src="/thumbnail/yakushima.jpg" alt="야쿠시마 썸네일">
+    <img src="/thumbnail/yakushima.jpg" alt="Thumbnail of Yakushima">
     <div>
       <h3>🌱 Yakushima<br>Travel Story</h3>
     </div>
@@ -49,7 +49,7 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
 
 <div class="link-box">
   <a href="/en/jr-travel/2-kagoshima" target="_blank">
-    <img src="/thumbnail/kagoshima.jpg" alt="가고시마 썸네일">
+    <img src="/thumbnail/kagoshima.jpg" alt="Thumbnail of Kagoshima">
     <div>
       <h3>☀️ Kagoshima<br>Travel Story</h3>
     </div>
@@ -58,7 +58,7 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
 
 <div class="link-box">
   <a href="/en/jr-travel/3-fukuoka" target="_blank">
-    <img src="/thumbnail/fukuoka.jpg" alt="후쿠오카 썸네일">
+    <img src="/thumbnail/fukuoka.jpg" alt="Thumbnail of Fukuoka">
     <div>
       <h3>⛅ Fukuoka<br>Travel Story</h3>
     </div>
@@ -67,7 +67,7 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
 
 <div class="link-box">
   <a href="/en/jr-travel/4-hiroshima" target="_blank">
-    <img src="/thumbnail/hiroshima.jpg" alt="히로시마 썸네일">
+    <img src="/thumbnail/hiroshima.jpg" alt="Thumbnail of Hiroshima">
     <div>
       <h3>⛩️ Hiroshima<br>Travel Story</h3>
     </div>
@@ -76,9 +76,18 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
 
 <div class="link-box">
   <a href="/en/jr-travel/5-himeji" target="_blank">
-    <img src="/thumbnail/himeji.jpg" alt="히메지 썸네일">
+    <img src="/thumbnail/himeji.jpg" alt="Thumbnail of Himeji">
     <div>
       <h3>🏯 Himeji<br>Travel Story</h3>
+    </div>
+  </a>
+</div>
+
+<div class="link-box">
+  <a href="/en/jr-travel/6-kobe" target="_blank">
+    <img src="/thumbnail/kobe.jpg" alt="Thumbnail of Kobe">
+    <div>
+      <h3>🚠 Kobe<br>Travel Story</h3>
     </div>
   </a>
 </div>
