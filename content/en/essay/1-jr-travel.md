@@ -2,7 +2,7 @@
 author: "Loko"
 title: "From Yakushima to Sapporo: A Nationwide Train Journey Across Japan"
 date: 2024-11-19
-lastmod: 2024-12-01
+lastmod: 2024-12-03
 description: "Exploring Japan with a JR Pass"
 thumbnail: /thumbnail/kagoshima-city.jpg
 ---
@@ -88,6 +88,15 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
     <img src="/thumbnail/kobe.jpg" alt="Thumbnail of Kobe">
     <div>
       <h3>🚠 Kobe<br>Travel Story</h3>
+    </div>
+  </a>
+</div>
+
+<div class="link-box">
+  <a href="/en/jr-travel/7-nara" target="_blank">
+    <img src="/thumbnail/nara.jpg" alt="나라 썸네일">
+    <div>
+      <h3>🦌 Nara<br>Travel Story</h3>
     </div>
   </a>
 </div>
