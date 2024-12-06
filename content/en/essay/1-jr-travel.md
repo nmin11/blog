@@ -110,6 +110,15 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
   </a>
 </div>
 
+<div class="link-box">
+  <a href="/en/jr-travel/9-amanohashidate" target="_blank">
+    <img src="/thumbnail/amanohashidate.jpg" alt="Thumbnail of Amanohashidate">
+    <div>
+      <h3>🏝️ Amanohashidate<br>Travel Story</h3>
+    </div>
+  </a>
+</div>
+
 <div style="border: 2px dashed #ccc; padding: 10px; text-align: center; margin: 20px 0;">
   🚄 Stay tuned for the next adventure!
   See you in the upcoming stories.
