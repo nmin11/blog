@@ -2,7 +2,7 @@
 author: "Loko"
 title: "야쿠시마에서 삿포로까지, 일본 전국 기차 여행기"
 date: 2024-11-19
-lastmod: 2024-12-07
+lastmod: 2024-12-08
 description: "JR 패스와 함께하는 일본 전국 여행"
 thumbnail: /thumbnail/kagoshima-city.jpg
 ---
@@ -124,6 +124,15 @@ thumbnail: /thumbnail/kagoshima-city.jpg
     <img src="/thumbnail/kyoto.jpg" alt="교토 썸네일">
     <div>
       <h3>🎋 교토 여행기</h3>
+    </div>
+  </a>
+</div>
+
+<div class="link-box">
+  <a href="/kr/jr-travel/11-fujinomiya" target="_blank">
+    <img src="/thumbnail/fujinomiya.jpg" alt="후지노미야 썸네일">
+    <div>
+      <h3>🦆 후지노미야 여행기</h3>
     </div>
   </a>
 </div>
