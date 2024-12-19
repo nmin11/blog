@@ -36,9 +36,9 @@ I had heard a lot about the weak yen, and the fact that I had never been to Japa
 What sealed the deal, though, was the [JR Pass](https://japanrailpass.net/en), which would allow me to travel across the country with ease.  
 With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration, with an additional three days to round it off.
 
-<br>
+<h2 class="separator">Japan Nationwide Travel Diary</h2>
 
-<div class="link-box">
+<div class="link-box" data-number="1">
   <a href="/en/jr-travel/1-yakushima" target="_blank">
     <img src="/thumbnail/yakushima.jpg" alt="Thumbnail of Yakushima">
     <div>
@@ -47,7 +47,7 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="2">
   <a href="/en/jr-travel/2-kagoshima" target="_blank">
     <img src="/thumbnail/kagoshima.jpg" alt="Thumbnail of Kagoshima">
     <div>
@@ -56,7 +56,7 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="3">
   <a href="/en/jr-travel/3-fukuoka" target="_blank">
     <img src="/thumbnail/fukuoka.jpg" alt="Thumbnail of Fukuoka">
     <div>
@@ -65,7 +65,7 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="4">
   <a href="/en/jr-travel/4-hiroshima" target="_blank">
     <img src="/thumbnail/hiroshima.jpg" alt="Thumbnail of Hiroshima">
     <div>
@@ -74,7 +74,7 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="5">
   <a href="/en/jr-travel/5-himeji" target="_blank">
     <img src="/thumbnail/himeji.jpg" alt="Thumbnail of Himeji">
     <div>
@@ -83,7 +83,7 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="6">
   <a href="/en/jr-travel/6-kobe" target="_blank">
     <img src="/thumbnail/kobe.jpg" alt="Thumbnail of Kobe">
     <div>
@@ -92,7 +92,7 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="7">
   <a href="/en/jr-travel/7-nara" target="_blank">
     <img src="/thumbnail/nara.jpg" alt="Thumbnail of Nara">
     <div>
@@ -101,7 +101,7 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="8">
   <a href="/en/jr-travel/8-osaka" target="_blank">
     <img src="/thumbnail/osaka.jpg" alt="Thumbnail of Osaka">
     <div>
@@ -110,7 +110,7 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="9">
   <a href="/en/jr-travel/9-amanohashidate" target="_blank">
     <img src="/thumbnail/amanohashidate.jpg" alt="Thumbnail of Amanohashidate">
     <div>
@@ -119,7 +119,7 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="10">
   <a href="/en/jr-travel/10-kyoto" target="_blank">
     <img src="/thumbnail/kyoto.jpg" alt="Thumbnail of Kyoto">
     <div>
@@ -128,7 +128,7 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="11">
   <a href="/en/jr-travel/11-fujinomiya" target="_blank">
     <img src="/thumbnail/fujinomiya.jpg" alt="Thumbnail of Fujinomiya">
     <div>
@@ -137,7 +137,7 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="12">
   <a href="/en/jr-travel/12-tokyo" target="_blank">
     <img src="/thumbnail/tokyo.jpg" alt="Thumbnail of Tokyo">
     <div>
@@ -146,7 +146,7 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="13">
   <a href="/en/jr-travel/13-sendai" target="_blank">
     <img src="/thumbnail/sendai.jpg" alt="Thumbnail of Sendai">
     <div>
@@ -155,7 +155,7 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="14">
   <a href="/en/jr-travel/14-hakodate" target="_blank">
     <img src="/thumbnail/hakodate.jpg" alt="Thumbnail of Hakodate">
     <div>
@@ -164,7 +164,7 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="1">
   <a href="/en/jr-travel/15-sapporo" target="_blank">
     <img src="/thumbnail/sapporo.jpg" alt="Thumbnail of Sapporo">
     <div>
@@ -215,5 +215,27 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
     margin: 0;
     font-size: 1.5em;
     color: #FFFFFF;
+  }
+
+  .separator {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+  }
+
+  .separator::before, .separator::after {
+    content: "";
+    width: 2em;
+    height: 3px;
+    background-color: #e5c046;
+  }
+
+  .separator::before {
+    margin-right: 20px;
+  }
+
+  .separator::after {
+    margin-left: 20px;
   }
 </style>

@@ -36,9 +36,9 @@ thumbnail: /thumbnail/kagoshima-city.jpg
 그리고 결정적으로, [JR Pass](https://japanrailpass.net/kr)를 활용하면 일본 전국을 손쉽게 여행할 수 있다는 점에 매료되었다.  
 그래서 JR Pass 최대 기간인 21일에 앞뒤로 3일을 덧붙여서 24일간의 일본 여행을 떠나게 되었다.
 
-<br>
+<h2 class="separator">일본 전국 여행기</h2>
 
-<div class="link-box">
+<div class="link-box" data-number="1">
   <a href="/kr/jr-travel/1-yakushima" target="_blank">
     <img src="/thumbnail/yakushima.jpg" alt="야쿠시마 썸네일">
     <div>
@@ -47,7 +47,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="2">
   <a href="/kr/jr-travel/2-kagoshima" target="_blank">
     <img src="/thumbnail/kagoshima.jpg" alt="가고시마 썸네일">
     <div>
@@ -56,7 +56,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="3">
   <a href="/kr/jr-travel/3-fukuoka" target="_blank">
     <img src="/thumbnail/fukuoka.jpg" alt="후쿠오카 썸네일">
     <div>
@@ -65,7 +65,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="4">
   <a href="/kr/jr-travel/4-hiroshima" target="_blank">
     <img src="/thumbnail/hiroshima.jpg" alt="히로시마 썸네일">
     <div>
@@ -74,7 +74,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="5">
   <a href="/kr/jr-travel/5-himeji" target="_blank">
     <img src="/thumbnail/himeji.jpg" alt="히메지 썸네일">
     <div>
@@ -83,7 +83,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="6">
   <a href="/kr/jr-travel/6-kobe" target="_blank">
     <img src="/thumbnail/kobe.jpg" alt="고베 썸네일">
     <div>
@@ -92,7 +92,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="7">
   <a href="/kr/jr-travel/7-nara" target="_blank">
     <img src="/thumbnail/nara.jpg" alt="나라 썸네일">
     <div>
@@ -101,7 +101,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="8">
   <a href="/kr/jr-travel/8-osaka" target="_blank">
     <img src="/thumbnail/osaka.jpg" alt="오사카 썸네일">
     <div>
@@ -110,7 +110,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="9">
   <a href="/kr/jr-travel/9-amanohashidate" target="_blank">
     <img src="/thumbnail/amanohashidate.jpg" alt="아마노하시다테 썸네일">
     <div>
@@ -119,7 +119,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="10">
   <a href="/kr/jr-travel/10-kyoto" target="_blank">
     <img src="/thumbnail/kyoto.jpg" alt="교토 썸네일">
     <div>
@@ -128,7 +128,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="11">
   <a href="/kr/jr-travel/11-fujinomiya" target="_blank">
     <img src="/thumbnail/fujinomiya.jpg" alt="후지노미야 썸네일">
     <div>
@@ -137,7 +137,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="12">
   <a href="/kr/jr-travel/12-tokyo" target="_blank">
     <img src="/thumbnail/tokyo.jpg" alt="도쿄 썸네일">
     <div>
@@ -146,7 +146,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="13">
   <a href="/kr/jr-travel/13-sendai" target="_blank">
     <img src="/thumbnail/sendai.jpg" alt="도쿄 썸네일">
     <div>
@@ -155,7 +155,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="14">
   <a href="/kr/jr-travel/14-hakodate" target="_blank">
     <img src="/thumbnail/hakodate.jpg" alt="하코다테 썸네일">
     <div>
@@ -164,7 +164,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
   </a>
 </div>
 
-<div class="link-box">
+<div class="link-box" data-number="15">
   <a href="/kr/jr-travel/15-sapporo" target="_blank">
     <img src="/thumbnail/sapporo.jpg" alt="삿포로 썸네일">
     <div>
@@ -215,5 +215,27 @@ thumbnail: /thumbnail/kagoshima-city.jpg
     margin: 0;
     font-size: 1.5em;
     color: #FFFFFF;
+  }
+
+  .separator {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+  }
+
+  .separator::before, .separator::after {
+    content: "";
+    width: 4em;
+    height: 3px;
+    background-color: #e5c046;
+  }
+
+  .separator::before {
+    margin-right: 30px;
+  }
+
+  .separator::after {
+    margin-left: 30px;
   }
 </style>
