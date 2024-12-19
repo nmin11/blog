@@ -1,8 +1,8 @@
 ---
 author: "Loko"
 title: "Snow Falls in Sapporo Even in Early November"
-date: 2024-12-18
-lastmod: 2024-12-18
+date: 2024-12-19
+lastmod: 2024-12-19
 description: "The final chapter of my Japan journey"
 thumbnail: /thumbnail/sapporo.jpg
 toc: true

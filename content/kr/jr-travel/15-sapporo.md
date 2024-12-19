@@ -1,8 +1,8 @@
 ---
 author: "Loko"
 title: "11월 초에도 눈이 내리는 삿포로"
-date: 2024-12-18
-lastmod: 2024-12-18
+date: 2024-12-19
+lastmod: 2024-12-19
 description: "이번 일본 여행의 마지막"
 thumbnail: /thumbnail/sapporo.jpg
 toc: true
