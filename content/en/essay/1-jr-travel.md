@@ -2,7 +2,7 @@
 author: "Loko"
 title: "From Yakushima to Sapporo: A Nationwide Train Journey Across Japan"
 date: 2024-11-19
-lastmod: 2024-12-15
+lastmod: 2024-12-25
 description: "Exploring Japan with a JR Pass"
 thumbnail: /thumbnail/kagoshima-city.jpg
 ---
