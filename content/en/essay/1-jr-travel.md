@@ -173,9 +173,13 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
   </a>
 </div>
 
-<div style="border: 2px dashed #ccc; padding: 10px; text-align: center; margin: 20px 0;">
-  🚄 Stay tuned for the next adventure!
-  See you in the upcoming stories.
+<div class="link-box" data-number="15">
+  <a href="/en/jr-travel/16-epilogue" target="_blank">
+    <img src="/thumbnail/jr-epilogue.jpg" alt="Thumbnail of Epilogue">
+    <div>
+      <h3>🗾 Epilogue</h3>
+    </div>
+  </a>
 </div>
 
 <style>
