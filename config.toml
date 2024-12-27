@@ -1,6 +1,6 @@
 baseurl = "https://nmin11.github.io"
 metaDataFormat = "yaml"
-title = "Lokoding"
+title = "Loko"
 theme = "blist"
 
 DefaultContentLanguage = "kr"

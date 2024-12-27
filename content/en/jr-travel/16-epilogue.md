@@ -46,7 +46,7 @@ After all, if I document them properly, they’re bound to be helpful the next t
 
 ### Most Beautiful Castle: Osaka Castle
 
-![Osaka Castle](/jr-travel/osaka-8.jpg)
+<img class="hover-zoom" src="/jr-travel/osaka-8.jpg" alt="Osaka Castle">
 
 During this trip to Japan, I only managed to visit two castles: **Himeji Castle** and **Osaka Castle**.  
 Himeji Castle is renowned enough to attract travelers who visit Himeji solely to see it.  
@@ -57,7 +57,7 @@ Additionally, the expansive park surrounding the castle created a harmonious atm
 
 ### Most Beautiful View: Amanohashidate
 
-![Amanohashidate](/thumbnail/amanohashidate.jpg)
+<img class="hover-zoom" src="/thumbnail/amanohashidate.jpg" alt="Amanohashidate">
 
 As mentioned in a previous post, Amanohashidate was the most beautiful of Japan's Three Views.  
 It's not just about enjoying the mystical natural scenery from the viewpoint, but also the fun of walking through the forest itself.  
@@ -65,7 +65,7 @@ I hope to walk leisurely through that forest again someday.
 
 ### Least Impressive View: Matsushima
 
-![Matsushima](/jr-travel/sendai-6.jpg)
+<img class="hover-zoom" src="/jr-travel/sendai-6.jpg" alt="Matsushima">
 
 Matsushima, one of Japan's Three Views, was a difficult sight to take in all at once.  
 Moreover, the vast ria coastline here didn’t compare to the majestic and beautiful scenery of Chiu Lan Lake that I experienced in Thailand.
@@ -78,7 +78,7 @@ However, I avoided eating too heavy at dinner to prevent disrupting my sleep or 
 For lunch, I often opted for **ekibento** (bento boxes sold at train stations), especially when traveling by Shinkansen.  
 Since it was a long trip, maintaining good health through proper eating was more important than just eating delicious food.
 
-![Tonkotsu Ramen](/jr-travel/sapporo-22.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-22.jpg" alt="Tonkotsu Ramen">
 
 Through this approach, I found that **tonkotsu ramen** suited my taste the most.  
 I couldn’t quite shake off my Korean tastes even after arriving in Japan.  
@@ -89,7 +89,7 @@ Although choosing tonkotsu ramen might seem predictable, I still want to take th
 
 ### Surprisingly Disappointing Dish: Monjayaki
 
-![Monjayaki](/jr-travel/tokyo-32.jpg)
+<img class="hover-zoom" src="/jr-travel/tokyo-32.jpg" alt="Monjayaki">
 
 Before the trip, I attended a Japanese language meetup in Korea, where **monjayaki** was recommended to me.  
 It was suggested that I must try this dish when I visit Tokyo.  
@@ -102,7 +102,7 @@ Since I only tried it once, if I ever visit Tokyo again, I’ll give it another 
 Apart from smaller destinations like Himeji, Nara, and Amanohashidate, I didn’t have many places I could truly enjoy to the fullest.  
 Due to the nature of train travel, I often only got a "taste" of each area before moving on, leaving me with a sense of regret.
 
-![Hiroshima](/thumbnail/hiroshima.jpg)
+<img class="hover-zoom" src="/thumbnail/hiroshima.jpg" alt="Hiroshima">
 
 Nonetheless, I can say that I enjoyed most of what Hiroshima had to offer.  
 I tried **okonomiyaki**, visited **Itsukushima Shrine**, and explored the **Peace Memorial Park** with the Atomic Bomb Dome.  
@@ -110,7 +110,7 @@ The only place I didn’t visit was Hiroshima Castle, but since it was rebuilt a
 
 ### A City I'd Like to Live in for a Month: Kobe
 
-![Kobe](/jr-travel/kobe-2.jpg)
+<img class="hover-zoom" src="/jr-travel/kobe-2.jpg" alt="Kobe">
 
 Kobe left a lasting impression on me as a charming city.  
 I was quite touched by the unexpectedly warm service I received at a pasta restaurant I visited casually.  
@@ -121,7 +121,7 @@ I imagine it would be fun to pack light and stay in Kobe for a month with my lap
 
 ### The City Where I Felt Kindness: Fujinomiya
 
-![Fujinomiya](/jr-travel/fujinomiya-2.jpg)
+<img class="hover-zoom" src="/jr-travel/fujinomiya-2.jpg" alt="Fujinomiya">
 
 For me, Fujinomiya will be remembered as a place where pain, loneliness, and warmth mixed together.  
 The cold I caught in Kyoto reached its peak, and one night I had to sleep for over 12 hours.  
@@ -136,7 +136,7 @@ With that in mind, I think it would be fun to plan a trip focused on Japan's sma
 
 ### The Grandeur of Nature: Yakushima
 
-![Shiratani Unsuikyo](/thumbnail/yakushima.jpg)
+<img class="hover-zoom" src="/thumbnail/yakushima.jpg" alt="Shiratani Unsuikyo">
 
 The decision to travel to **Yakushima**, after watching *Princess Mononoke* and reading the book *Quit is Travel*, was actually the starting point of my entire trip.  
 In truth, the round trip between Kyushu mainland and Yakushima didn't align well with the concept of my JR Pass train journey.  
@@ -148,7 +148,7 @@ Next time, I’d like to rent a car with a friend and explore this mysterious is
 
 ### The Place I Want to Visit with a Partner: Hokkaido
 
-![View of Hokkaido from the plane](/jr-travel/sapporo-23.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-23.jpg" alt="View of Hokkaido from the plane">
 
 During my travels in Japan, it became almost routine to see countless couples and feel a sense of envy.  
 Naturally, this made me think about coming to Japan with a partner next time or perhaps meeting someone new here.  
@@ -209,7 +209,7 @@ Once I’ve settled some matters and figured out the basics of my life here, I�
     Travel begins without much thought, <br>
     sways aimlessly, and suddenly ends.
   </p>
-  <cite>– Park Hyun-yong, The Thirty’s Travel is Over</cite>
+  <cite>– Park Hyun-yong, "The Thirty’s Travel is Over"</cite>
 </blockquote>
 
 After my trip to Japan, which always excited me, abruptly ended, I’ve been lost in thought for over two months, unable to find my way out.  
@@ -235,17 +235,6 @@ The ambition to quickly enter the gaming industry and the restraint to think thi
 I’ll likely write the results of this internal struggle in another essay.
 
 <style>
-  img {
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  }
-
-  img:hover {
-    transform: scale(1.05);
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-  }
-
   .highlight-quote {
     position: relative;
     margin: 20px auto;

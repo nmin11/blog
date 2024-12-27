@@ -15,29 +15,29 @@ toc: true
 그 짧은 시간 안에서도 시로야마 공원 전망대, 센간엔, 사쿠라지마 등 가보고 싶은 곳들이 많았다.  
 일단 오전에는 고즈넉한 산책이 즐기고 싶어져서 **센간엔**으로 향했다.
 
-![센간엔의 어느 문](/jr-travel/kagoshima-1.jpg)
+<img class="hover-zoom" src="/jr-travel/kagoshima-1.jpg" alt="센간엔의 어느 문">
 
 당시 10월 18일이었는데도 센간엔에 내리쬐는 가고시마의 태양은 꽤나 뜨거웠다.  
 그래도 맑고 화창한 날씨가 반겨주는 느낌도 들어서 불쾌한 느낌은 아니었다.
 
-![잠보모찌](/jr-travel/kagoshima-2.jpg)
+<img class="hover-zoom" src="/jr-travel/kagoshima-2.jpg" alt="잠보모찌">
 
 센간엔에 오면 꼭 먹어봐야 한다는 잠보모찌.  
 무사의 칼 2자루를 형상화했다고는 하는데, 뭐 그런 사연이야 어찌됐든 달짝지근하게 맛있었고 차와 함께 즐기기에도 좋았다.
 
-![센간엔의 어느 풍경](/jr-travel/kagoshima-3.jpg)
+<img class="hover-zoom" src="/jr-travel/kagoshima-3.jpg" alt="센간엔의 어느 풍경">
 
 센간엔은 1658년에 시마즈 가문의 별장으로 만들어진 정원이라고 한다.  
 그래서 그런지 동그라미 안에 십자가 이어져 있는 시마즈 가문의 문양이 정원 곳곳에서 보였다.  
 아니, 사실 정원에서 뿐만이 아니라 가고시마 시티뷰 버스를 타고 가고시마시를 돌아볼 때에도 상당히 자주 그 문양이 보였다.
 
-![시마즈 가문의 문양](/jr-travel/kagoshima-4.jpg)
+<img class="hover-zoom" src="/jr-travel/kagoshima-4.jpg" alt="시마즈 가문의 문양">
 
 그 덕분에 가고시마를 여행하는 내내, 이 지역을 1,000년 넘게 통치했다는 시마즈 가문의 영향력에 대해 실감하면서 여행을 즐길 수 있었다.
 
-![센간엔의 바닷가 풍경 1](/jr-travel/kagoshima-5.jpg)
+<img class="hover-zoom" src="/jr-travel/kagoshima-5.jpg" alt="센간엔의 바닷가 풍경 1">
 
-![센간엔의 바닷가 풍경 2](/jr-travel/kagoshima-6.jpg)
+<img class="hover-zoom" src="/jr-travel/kagoshima-6.jpg" alt="센간엔의 바닷가 풍경 2">
 
 ## 사쿠라지마 대신에 수족관으로
 
@@ -46,7 +46,7 @@ toc: true
 그래서 즉흥적으로 **가고시마 수족관**으로 향했다.  
 이 수족관은 묘하게도 사쿠라지마행 페리 선착장 바로 옆에 위치해 있어서 뭔가 사쿠라지마에 가지 못한다는 점이 한층 더 아쉬워졌다. 😂
 
-![사쿠라지마 페리 선착장과 수족관 사이 어딘가](/jr-travel/kagoshima-7.jpg)
+<img class="hover-zoom" src="/jr-travel/kagoshima-7.jpg" alt="사쿠라지마 페리 선착장과 수족관 사이 어딘가">
 
 사실 가고시마 수족관은 일본 어디에서도 볼 수 없는 특별한 물고기가 있다던가 하는 특이점은 없었다.  
 하지만 그래서인지 외국인은 딱히 보이지 않고 현지의 어린 학생들, 그리고 그들과 함께 온 부모들이 대다수였다.  
@@ -60,19 +60,19 @@ toc: true
 
 그리고 수족관에 와본 게 족히 8년은 지났던 터라, 물고기들도 적잖이 신기해 보이기도 했다.
 
-![구름에 덮여 있는 사쿠라지마](/jr-travel/kagoshima-8.jpg)
+<img class="hover-zoom" src="/jr-travel/kagoshima-8.jpg" alt="구름에 덮여 있는 사쿠라지마">
 
 이번 여행은 정말로 사쿠라지마와의 인연이 없었던 것 같다.  
 직접 들어가 보지도 못했을 뿐더러, 이렇게 멀리서 본 모습마저 온통 구름인지 연기인지 모를 것에 가려져 있었다.  
 하지만 뭐 어쩌겠는가, 가고시마 여행 일정을 이렇게 짧게 잡은 사람이 나였으니.
 
-![수족관에서 다시 버스 타러 돌아가는 길](/jr-travel/kagoshima-9.jpg)
+<img class="hover-zoom" src="/jr-travel/kagoshima-9.jpg" alt="수족관에서 다시 버스 타러 돌아가는 길">
 
 ## 다시 가고시마에 돌아올 수 있을까?
 
 수족관을 다 돌아보고 나서, 아직 예약해둔 신칸센 출발 시간까지 아직 시간이 좀 더 남았기 때문에 가고시마 시내의 덴몬칸으로 갔다.
 
-![덴몬칸 공원](/jr-travel/kagoshima-10.jpg)
+<img class="hover-zoom" src="/jr-travel/kagoshima-10.jpg" alt="덴몬칸 공원">
 
 덴몬칸의 공원도 한번 찍고 돌아와보고, 우동으로 간단히 요기도 하고, 어느 높은 건물의 디저트 가게나 기념품들, 서점 등을 구경했다.  
 그러다 별 생각도 없이 그 건물의 옥상까지 올라갔는데, 여기에서 뜻밖의 경치를 감상할 수 있었다.
@@ -83,7 +83,7 @@ toc: true
 가고시마에서 느꼈던 고즈넉하고 따스한 분위기를 다시 한번 제대로 느낄 수 있게 해주는 풍경이었다.  
 하지만 얼마 지나지 않아서 이 멋진 풍경을 뒤로 하고 다시 가고시마 중앙역으로 돌아가야만 했다.
 
-![가고시마 중앙역 앞](/jr-travel/kagoshima-11.jpg)
+<img class="hover-zoom" src="/jr-travel/kagoshima-11.jpg" alt="가고시마 중앙역 앞">
 
 이번 일본 여행 중에서 유독 가고시마를 떠날 때의 내 발걸음이 무거웠다.  
 떠나고 싶지 않은 마음, 조금 더 머물러보고 싶은 마음, 더 마음껏 즐겨보고 싶은 마음.  
@@ -98,16 +98,3 @@ toc: true
 심지어 야쿠시마도 내게 특별한 여행지였기 때문에 다음에 만반의 준비를 갖춰서 다시 가보고 싶다.  
 하지만 가고시마는? 내가 여기에 다시 돌아올 수 있을까? 내 일생에 단 한번만이라도?  
 그 질문에 대한 답을 확신할 수 없었기 때문에 유독 떠나는 게 아쉽게 느껴졌고, 추억 속에 아련한 여행지로 기억에 남는다, 가고시마는.
-
-<style>
-  img {
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  }
-
-  img:hover {
-    transform: scale(1.05);
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-  }
-</style>

@@ -12,11 +12,11 @@ toc: true
 
 After a roughly four-hour train ride from Hakodate, I arrived in Sapporo under a noticeably cloudy sky.
 
-![In front of the TV Tower](/jr-travel/sapporo-1.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-1.jpg" alt="In front of the TV Tower">
 
 Ignoring the weather, I headed straight to my first destination in Sapporo: **Mt. Moiwa Observatory**.
 
-![Inside the Mt. Moiwa Ropeway](/jr-travel/sapporo-2.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-2.jpg" alt="Inside the Mt. Moiwa Ropeway">
 
 The panoramic view of Sapporo from Mt. Moiwa Observatory was vast and breathtaking.  
 It was a reminder that Sapporo is far from being a small city.  
@@ -31,16 +31,16 @@ Meanwhile, in Hokkaido, early November felt like the heart of winter, with my no
 I couldn't stay long and had to descend quickly.  
 Unlike observation towers in Tokyo, where I might have asked someone to take my picture, the mood here didn’t feel conducive to striking up conversations, and the cold made lingering impossible.
 
-![Susukino](/jr-travel/sapporo-3.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-3.jpg" alt="Susukino">
 
 After descending, I headed straight to **Susukino** to try the famous **Genghis Khan**—a grilled lamb dish.  
 Though lamb isn’t a familiar ingredient for me, I wanted to experience it at least once, even if it turned out to be nothing extraordinary.
 
-![Genghis Khan](/jr-travel/sapporo-4.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-4.jpg" alt="Genghis Khan">
 
 The flavor of the meat wasn’t particularly memorable, but grilling it over a brazier in the cold city was a romantic experience.
 
-![Sapporo Beer](/jr-travel/sapporo-5.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-5.jpg" alt="Sapporo Beer">
 
 And, of course, no visit to Sapporo would be complete without trying Sapporo beer.
 
@@ -48,15 +48,15 @@ And, of course, no visit to Sapporo would be complete without trying Sapporo bee
 
 The next morning, I headed to **Maruyama Park**.  
 
-![A torii in Maruyama Park](/jr-travel/sapporo-6.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-6.jpg" alt="A torii in Maruyama Park">
 
 Like many other parks in Japan, this one also had a mix of temples and walking paths, creating a serene atmosphere.  
 
-![A plaque with a child's wish to become a gyaru](/jr-travel/sapporo-7.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-7.jpg" alt="A plaque with a child's wish to become a gyaru">
 
 After exploring the park, I ventured deeper to visit **Maruyama Zoo**.  
 
-![Entrance to Maruyama Zoo](/jr-travel/sapporo-8.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-8.jpg" alt="Entrance to Maruyama Zoo">
 
 The gloomy weather of the day, combined with the realization that it was my last day in Japan, added to my melancholic mood.  
 However, Maruyama Zoo managed to temporarily dispel the gloom with its fascinating collection of animals.  
@@ -93,7 +93,7 @@ After seeing all the animals, I returned to downtown Sapporo.
 
 For lunch in downtown Sapporo, I had **soup curry**.
 
-![Soup Curry](/jr-travel/sapporo-9.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-9.jpg" alt="Soup Curry">
 
 Like jingisukan, it’s a warm dish perfect for chilly weather, especially when eaten while blowing on it to cool it down.  
 Since I had a cold, the spicy flavors made me cough a bit, but it was still delicious.  
@@ -101,16 +101,16 @@ I’d love to try it again properly once I’ve recovered.
 
 After finishing the warm soup curry, I headed to the **Sapporo Beer Museum**.
 
-![The History of Sapporo Beer Museum](/jr-travel/sapporo-10.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-10.jpg" alt="The History of Sapporo Beer Museum">
 
 To be honest, there wasn’t any extraordinary history or surprising secrets about Sapporo Beer.  
 Instead, I focused on the visual elements, such as the changes in the logo, the look of the brewery, and the posters.
 
-![Logos of Sapporo Beer](/jr-travel/sapporo-11.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-11.jpg" alt="Logos of Sapporo Beer">
 
 After exploring the museum, I enjoyed a beer tasting on the first floor.
 
-![Sapporo Beer Tasting](/jr-travel/sapporo-12.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-12.jpg" alt="Sapporo Beer Tasting">
 
 For my taste, the 'Black Label' was the best.  
 Maybe it’s because I have a youthful palate, but I preferred its smooth and mild flavor over something tangy or sour.
@@ -118,7 +118,7 @@ Maybe it’s because I have a youthful palate, but I preferred its smooth and mi
 When I finished my beer and stepped outside, it was pouring rain.  
 Thanks to my many experiences in Japan, I always carry an umbrella in my sling bag, so I could open it immediately and continue on my way.
 
-![Shiroi Koibito](/jr-travel/sapporo-13.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-13.jpg" alt="Shiroi Koibito">
 
 I stopped by a nearby souvenir shop and picked up a box of 'Shiroi Koibito,' a chocolate cookie.  
 As my journey was nearing its end, it felt necessary to grab some souvenirs.  
@@ -131,7 +131,7 @@ Not only was the chocolate delightful, but the soft and pleasant texture of the 
 After leaving the beer garden, I trudged towards the center of Sapporo, holding an umbrella.  
 As I walked, I looked for places that seemed worth a quick stop.
 
-![Sapporo Factory](/jr-travel/sapporo-14.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-14.jpg" alt="Sapporo Factory">
 
 Despite using my umbrella, the rain was so heavy that I ended up pretty soaked by the time I arrived at **Sapporo Factory**.  
 A bit embarrassingly, the three beers I had at the beer museum had made my bladder quite active, so I rushed to the restroom first.  
@@ -139,25 +139,25 @@ Only after shaking off the wetness could I properly explore the building.
 Since the building was converted from a beer factory, it had an antique vibe, and thanks to the Christmas tree, it felt quite romantic as well.  
 However, the shops in the mall were rather predictable, and there was nothing worth buying.
 
-![Back to the TV Tower](/jr-travel/sapporo-15.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-15.jpg" alt="Back to the TV Tower">
 
 Returning to the hotel, I warmed up, reorganized my luggage, and took a brief rest.  
 After sorting out my plans, I left the hotel again.  
 Since this was the last night of my trip to Japan, I had to make the most of it.  
 So, I decided to end this final night in **Susukino**.
 
-![Sapporo Ramen](/jr-travel/sapporo-16.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-16.jpg" alt="Sapporo Ramen">
 
 First, I tried **Sapporo Miso Ramen**.  
 It was a famous food street in Sapporo, and I wanted to experience various types of ramen in Japan.  
 However, it seems that, for my taste, nothing beats the richness of tonkotsu ramen.
 
-![Izakaya](/jr-travel/sapporo-17.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-17.jpg" alt="Izakaya">
 
 After a quick ramen meal, I headed to an **Izakaya**.  
 During my 24-day trip in Japan, I had always been busy either booking hotels or organizing the next day's schedule during the evenings, so this was my first time visiting an izakaya.
 
-![Some photos from the Izakaya](/jr-travel/sapporo-18.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-18.jpg" alt="Some photos from the Izakaya">
 
 When I finally entered an izakaya, I saw several Korean travelers at their tables, and local Japanese people chatting happily at the counter.  
 Since the counter seats were full, I ended up occupying a two-person table by myself and just ate and drank.  
@@ -178,20 +178,20 @@ In that moment, I was so happy to see the snow that I rushed to take photos and 
 
 On the morning of the last day, I dragged my suitcase through the snow-covered streets towards the airport.
 
-![In front of Sapporo Station](/jr-travel/sapporo-19.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-19.jpg" alt="In front of Sapporo Station">
 
-![New Chitose Airport](/jr-travel/sapporo-20.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-20.jpg" alt="New Chitose Airport">
 
 Since it started snowing heavily, my flight departure was delayed, so I took some time to wander around the airport.
 
-![Massage Shop at New Chitose Airport](/jr-travel/sapporo-21.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-21.jpg" alt="Massage Shop at New Chitose Airport">
 
 I decided to finally try the massage shop, which I had always thought was too expensive.  
 It wasn’t so much the massage itself, but the feeling of taking a brief rest and the sense of lightness that made it enjoyable.  
 The massage therapist mentioned that my ankles were stiff.  
 Considering that I walked about 25,000 steps a day on average, it seemed like a natural consequence.
 
-![Tonkotsu Ramen](/jr-travel/sapporo-22.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-22.jpg" alt="Tonkotsu Ramen">
 
 I also had **tonkotsu ramen** at a restaurant in the airport.  
 Honestly, it was the best ramen I had eaten in Japan.  
@@ -203,7 +203,7 @@ I boarded the plane according to the delayed boarding time, but the flight still
 There was likely snow removal work being done on the runway.  
 Thankfully, there were no further issues with returning, and the plane was able to take off safely.
 
-![Scenery of Hokkaido](/jr-travel/sapporo-23.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-23.jpg" alt="Scenery of Hokkaido">
 
 The view of Hokkaido.  
 If a good opportunity arises again, I’d love to rent a car and travel all around Hokkaido.  
@@ -213,16 +213,3 @@ Hopefully, I’ll do that with a friend or a partner.
 
 As I gazed at the brilliant lights of the Seoul metropolitan area, I realized that I was truly back in Korea.  
 Now, I wonder how I can adjust back to life in Korea again.
-
-<style>
-  img {
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  }
-
-  img:hover {
-    transform: scale(1.05);
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-  }
-</style>

@@ -10,7 +10,7 @@ thumbnail: /thumbnail/hakodate.jpg
 맑은 날씨의 센다이에서 2시간 반 동안 신칸센을 타고 하코다테에 도착하니 흐린 날씨였다.  
 게다가 차가운 바닷바람이 세차게 불어와서, 일본에서 처음으로 추위를 느꼈다.
 
-![카네모리 아카렌가 창고 앞](/jr-travel/hakodate-1.jpg)
+<img class="hover-zoom" src="/jr-travel/hakodate-1.jpg" alt="카네모리 아카렌가 창고 앞">
 
 어찌 이럴 수가.  
 하지만 하코다테에서의 일정은 짧게 1박 2일로 잡았기 때문에 지체하지 않고, 호텔에 체크인하자마자 나와서 우산을 꼭 쥔 채 열심히 돌아다녔다.  
@@ -19,9 +19,9 @@ thumbnail: /thumbnail/hakodate.jpg
 우선 호텔 근처의 **카네모리 아카렌가 창고**를 들렀다.  
 잠시 비를 피해 창고 안으로 들어서니, 아름답고 낭만적인 기념품들이 가득했다.
 
-![오르골들](/jr-travel/hakodate-2.jpg)
+<img class="hover-zoom" src="/jr-travel/hakodate-2.jpg" alt="오르골들">
 
-![상자들](/jr-travel/hakodate-3.jpg)
+<img class="hover-zoom" src="/jr-travel/hakodate-3.jpg" alt="상자들">
 
 그것들의 감성은 충분히 구매욕을 불러일으킬 만한 것들이었다.  
 하지만 나는 여태 장기 여행을 해오면서 기념품을 꺼리게 되기도 했고, 공간을 꽤나 차지하는 것들이기도 했기 때문에 구매하지는 않았다.  
@@ -34,7 +34,7 @@ thumbnail: /thumbnail/hakodate.jpg
 언덕 끝에 도달하니 이 궂은 날씨에도 구경하러 온 관광객들이 나 말고도 많았다.  
 구름도 잔뜩 끼어서 풍경도 이상적이지는 않았지만 아쉬운대로 사진과 영상을 남기고 발걸음을 옮겼다.
 
-![하치만자카 위에서 본 풍경](/jr-travel/hakodate-4.jpg)
+<img class="hover-zoom" src="/jr-travel/hakodate-4.jpg" alt="하치만자카 위에서 본 풍경">
 
 {{< youtube ymUIl9RLR-U >}}
 
@@ -42,20 +42,20 @@ thumbnail: /thumbnail/hakodate.jpg
 하코다테를 여행하던 시기에 하코다테야마 로프웨이가 장기간 점검 중이었기 때문에 전망대에 올라가보지 못했다.  
 로프웨이 말고도 산으로 가는 도로가 있기 때문에 걸어서라도 가볼까 망설였지만, 걸어서 가기에는 거리도 상당했고 비도 추적추적 내리고 있어서 그냥 다시 내려왔다.
 
-![다시 돌아온 카네모리 아카렌가 창고](/jr-travel/hakodate-5.jpg)
+<img class="hover-zoom" src="/jr-travel/hakodate-5.jpg" alt="다시 돌아온 카네모리 아카렌가 창고">
 
 다시 카네모리 아카렌가 창고로 돌아오니 벌써 어두워졌다.
 
-![럭키 피에로](/jr-travel/hakodate-6.jpg)
+<img class="hover-zoom" src="/jr-travel/hakodate-6.jpg" alt="럭키 피에로">
 
 조금 더 돌아다니다가 하코다테에 오면 꼭 먹어봐야 한다는 럭키 피에로에 들렀다.
 
-![차이니스 치킨 버거 세트](/jr-travel/hakodate-7.jpg)
+<img class="hover-zoom" src="/jr-travel/hakodate-7.jpg" alt="차이니스 치킨 버거 세트">
 
 대표 메뉴인 차이니스 치킨 버거 세트를 먹어봤는데, 내 입맛에 딱 맞았다.  
 예상이 될 법한 맛이기도 하지만, 그만큼 대중적인 입맛을 파고드는 매력이 있었다.
 
-![저녁의 창고 풍경](/jr-travel/hakodate-8.jpg)
+<img class="hover-zoom" src="/jr-travel/hakodate-8.jpg" alt="저녁의 창고 풍경">
 
 햄버거를 먹고 나오니 사진에 보이는 것처럼 아직 5시 20분인데도 하코다테에는 벌써 짙은 어둠이 내려앉았다.  
 창고의 조명이 켜지니 낭만적이고 감성적인 분위기가 고조되는 분위기였다.  
@@ -66,31 +66,18 @@ thumbnail: /thumbnail/hakodate.jpg
 어느샌가 이번 일본 전국 기차 여행을 **일본 여행의 교보재**로 삼게 되었기 때문에 뭐랄까, 억장이 무너질 듯 아쉽다는 생각은 안 들었다.  
 '아쉬운 만큼 나중에 또 와서 즐겨야지!' 하는 마음이 무럭무럭 피어날 뿐.
 
-![라 비스타 하코다테 베이 호텔에서 맞이한 아침](/jr-travel/hakodate-9.jpg)
+<img class="hover-zoom" src="/jr-travel/hakodate-9.jpg" alt="라 비스타 하코다테 베이 호텔에서 맞이한 아침">
 
 호텔에서 하룻밤 자고 일어나니 우중충했던 구름은 걷히고 파란 하늘이 시원하게 펼쳐져 있었다.  
 '이러다 삿포로 가면 또 비 오는 거 아니야?' 라는 불안감을 뒤로 한 채, 호텔에서 체크아웃을 하고 하코다테 역으로 돌아갔다.
 
-![호쿠토](/jr-travel/hakodate-10.jpg)
+<img class="hover-zoom" src="/jr-travel/hakodate-10.jpg" alt="호쿠토">
 
 21일간 함께 했던 JR 패스의 마지막 기차, 호쿠토.  
 이 JR 패스가 끝났다는 것을 알았을 때, 끝이 다가오고 있다는 것이 어찌나 실감되던지.
 
-![기차 안에서 본 풍경](/jr-travel/hakodate-11.jpg)
+<img class="hover-zoom" src="/jr-travel/hakodate-11.jpg" alt="기차 안에서 본 풍경">
 
 장장 4시간 가량 이동하는 호쿠토 안에서 홋카이도의 풍경을 열심히 눈에, 또 카메라에 담았다.
 
 {{< youtube RU3qYwmWeoI >}}
-
-<style>
-  img {
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  }
-
-  img:hover {
-    transform: scale(1.05);
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-  }
-</style>

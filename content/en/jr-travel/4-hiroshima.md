@@ -18,7 +18,7 @@ When I arrived on the first evening, it was already dark outside, but I couldn�
 Hiroshima-style okonomiyaki is quite different from the Kansai version, and I was determined to try both during this trip.  
 That’s why I made my way to **Okonomimura**, a building packed with okonomiyaki specialty restaurants.
 
-![Okonomiyaki](/jr-travel/hiroshima-1.jpg)
+<img class="hover-zoom" src="/jr-travel/hiroshima-1.jpg" alt="Okonomiyaki">
 
 Okonomiyaki with draft beer.  
 I thought to myself, this alone might be a good enough reason to visit Hiroshima.
@@ -27,13 +27,13 @@ I thought to myself, this alone might be a good enough reason to visit Hiroshima
 
 The next morning, I headed to a must-see destination in Hiroshima: **Itsukushima Island**.
 
-![Miyajima Ferry](/jr-travel/hiroshima-2.jpg)
+<img class="hover-zoom" src="/jr-travel/hiroshima-2.jpg" alt="Miyajima Ferry">
 
 {{< youtube G3ZVaC6tff4 >}}
 
 That morning, the weather was partly cloudy but mostly clear, with the tide high enough to showcase the iconic torii on water in all its beauty.
 
-![Entrance to Itsukushima](/jr-travel/hiroshima-3.jpg)
+<img class="hover-zoom" src="/jr-travel/hiroshima-3.jpg" alt="Entrance to Itsukushima">
 
 The friendly, wide-eyed deer added a warm touch to the island’s scenery.
 
@@ -41,9 +41,9 @@ The friendly, wide-eyed deer added a warm touch to the island’s scenery.
 
 As one of Japan's three most scenic spots, the torii on water was captivating—I can’t even count how many photos I took.
 
-![Torii on Water 1](/jr-travel/hiroshima-4.jpg)
+<img class="hover-zoom" src="/jr-travel/hiroshima-4.jpg" alt="Torii on Water 1">
 
-![Torii on Water 2](/jr-travel/hiroshima-5.jpg)
+<img class="hover-zoom" src="/jr-travel/hiroshima-5.jpg" alt="Torii on Water 2">
 
 {{< youtube q5ZcCl2b8nc >}}
 
@@ -51,19 +51,19 @@ As one of Japan's three most scenic spots, the torii on water was captivating—
 
 In the afternoon, I returned to central Hiroshima and, without pausing to rest, made my way to **Shukkei-en Garden**.
 
-![First Impression of Shukkei-en](/jr-travel/hiroshima-6.jpg)
+<img class="hover-zoom" src="/jr-travel/hiroshima-6.jpg" alt="First Impression of Shukkei-en">
 
 Although clouds filled the sky, obscuring the vibrant beauty of a sunny day, the garden had its own atmospheric charm.
 
-![Bamboo Grove at Shukkei-en](/jr-travel/hiroshima-7.jpg)
+<img class="hover-zoom" src="/jr-travel/hiroshima-7.jpg" alt="Bamboo Grove at Shukkei-en">
 
-![Distant View of Shukkei-en](/jr-travel/hiroshima-8.jpg)
+<img class="hover-zoom" src="/jr-travel/hiroshima-8.jpg" alt="Distant View of Shukkei-en">
 
 Arguably, the hidden gem of Shukkei-en is the **Hiroshima Prefectural Art Museum**.  
 It’s located right next to the garden, and I walked in without much expectation, only to discover an impressive collection of art pieces that left me amazed.  
 Unfortunately, photography was prohibited for most exhibits, so I couldn’t fully capture or preserve my memories.
 
-![Kodama Kibo Exhibition](/jr-travel/hiroshima-9.jpg)
+<img class="hover-zoom" src="/jr-travel/hiroshima-9.jpg" alt="Kodama Kibo Exhibition">
 
 I particularly loved Kodama Kibo's works, which were on display in a dedicated exhibition.  
 However, no photography was allowed for his pieces, making it even more regretful.  
@@ -73,10 +73,10 @@ To remember them, I purchased a set of postcards from the museum’s gift shop.
   <summary class="summary-underline">📸 Select Exhibits at Hiroshima Prefectural Art Museum</summary>
   <div>
     <div class="photo-grid">
-      <img src="/jr-travel/hiroshima-10.jpg" alt="Artwork 1 from Hiroshima Prefectural Art Museum">
-      <img src="/jr-travel/hiroshima-11.jpg" alt="Artwork 2 from Hiroshima Prefectural Art Museum">
+      <img class="hover-zoom" src="/jr-travel/hiroshima-10.jpg" alt="Artwork 1 from Hiroshima Prefectural Art Museum">
+      <img class="hover-zoom" src="/jr-travel/hiroshima-11.jpg" alt="Artwork 2 from Hiroshima Prefectural Art Museum">
     </div>
-    <img src="/jr-travel/hiroshima-12.jpg" alt="Artwork 3 from Hiroshima Prefectural Art Museum">
+    <img class="hover-zoom" src="/jr-travel/hiroshima-12.jpg" alt="Artwork 3 from Hiroshima Prefectural Art Museum">
   </div>
 </details>
 
@@ -86,9 +86,9 @@ Hiroshima has a noticeable number of Western tourists—more so than any other c
 This is undoubtedly because Hiroshima is the first city in history to suffer an atomic bomb attack.  
 Naturally, I had to make the **Hiroshima Peace Memorial Park** the last stop of my visit.
 
-![Atomic Bomb Dome 1](/jr-travel/hiroshima-13.jpg)
+<img class="hover-zoom" src="/jr-travel/hiroshima-13.jpg" alt="Atomic Bomb Dome 1">
 
-![Atomic Bomb Dome 2](/jr-travel/hiroshima-14.jpg)
+<img class="hover-zoom" src="/jr-travel/hiroshima-14.jpg" alt="Atomic Bomb Dome 2">
 
 The reason the Atomic Bomb Dome remains standing is ironically due to its proximity to the bomb's hypocenter.  
 This tragic "luck" preserved the building as a somber reminder of the horrors of war.
@@ -107,40 +107,14 @@ The Hiroshima Peace Memorial Museum was haunting.
 It vividly showcased the aftermath of the atomic bomb in excruciating detail.  
 While photography was allowed, the images I captured were too graphic to share here.
 
-![Outside the Museum](/jr-travel/hiroshima-15.jpg)
+<img class="hover-zoom" src="/jr-travel/hiroshima-15.jpg" alt="Outside the Museum">
 
-![Atomic Bomb Dome Revisited](/jr-travel/hiroshima-16.jpg)
+<img class="hover-zoom" src="/jr-travel/hiroshima-16.jpg" alt="Atomic Bomb Dome Revisited">
 
 When I stepped outside, the sun was setting, marking the end of my sightseeing in Hiroshima.  
 For my final meal, I didn’t think twice before returning to okonomiyaki.  
 This time, I visited **Nagata-ya**, a renowned okonomiyaki restaurant near the Peace Memorial Park.
 
-![Nagata-ya](/jr-travel/hiroshima-17.jpg)
+<img class="hover-zoom" src="/jr-travel/hiroshima-17.jpg" alt="Nagata-ya">
 
-![Second Round of Okonomiyaki](/jr-travel/hiroshima-18.jpg)
-
-<style>
-  img {
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  }
-
-  img:hover {
-    transform: scale(1.05);
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-  }
-
-  .photo-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 10px;
-  }
-  .photo-grid img {
-    width: 100%;
-  }
-
-  .summary-underline {
-    text-decoration: underline;
-  }
-</style>
+<img class="hover-zoom" src="/jr-travel/hiroshima-18.jpg" alt="Second Round of Okonomiyaki">

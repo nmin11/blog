@@ -23,19 +23,19 @@ In such cases, nearly half the day is spent on train journeys.
 While train rides provide a chance to rest sore legs, reflect, and enjoy the scenery, they often force you to scale back your itinerary.  
 Thus, my plans for the first day in Fujinomiya became quite simple: visit the Fujisan World Heritage Center and eat yakisoba at Omiya Yokocho—just two things.
 
-![Fujisan World Heritage Center](/jr-travel/fujinomiya-1.jpg)
+<img class="hover-zoom" src="/jr-travel/fujinomiya-1.jpg" alt="Fujisan World Heritage Center">
 
 The Fujisan World Heritage Center showcases Mount Fuji’s history and offers interactive exhibits simulating a trek up the mountain.  
 I learned about Fuji’s cultural significance to the Japanese and watched videos of pilgrims making their way to its summit.  
 While it didn’t compare to seeing or climbing Mount Fuji, the center somewhat eased my disappointment.
 
-![Omiya Yokocho](/jr-travel/fujinomiya-2.jpg)
+<img class="hover-zoom" src="/jr-travel/fujinomiya-2.jpg" alt="Omiya Yokocho">
 
 After exploring the center, I headed to Omiya Yokocho, a food stall area.  
 Unfortunately, the heavy rain and lack of visitors left many stalls closed.  
 Still, I managed to find an open yakisoba stall and enjoyed a warm meal.
 
-![Yakisoba](/jr-travel/fujinomiya-3.jpg)
+<img class="hover-zoom" src="/jr-travel/fujinomiya-3.jpg" alt="Yakisoba">
 
 That night, my cold hit its peak. I returned to my lodging, showered, and went straight to bed.  
 I have slept for over 12 hours.  
@@ -48,11 +48,11 @@ Given how unwell I felt, the idea of soaking in an onsen at Shuzenji was temptin
 I decided to stay closer and visit Fujinomiya’s major attractions: Lake Tanuki and Shiraito Falls.  
 My first stop was Lake Tanuki.
 
-![At Lake Tanuki](/jr-travel/fujinomiya-4.jpg)
+<img class="hover-zoom" src="/jr-travel/fujinomiya-4.jpg" alt="At Lake Tanuki">
 
 With an umbrella in hand, I strolled around the lake.
 
-![Lake Tanuki's woodlands](/jr-travel/fujinomiya-5.jpg)
+<img class="hover-zoom" src="/jr-travel/fujinomiya-5.jpg" alt="Lake Tanuki's woodlands">
 
 The lake itself was beautiful, as were the surrounding woodlands.  
 There were hiking trails through the forest, but with the bad weather and my cold, I skipped them.
@@ -67,13 +67,13 @@ Lake Tanuki was home to many ducks, which added to the charm of my visit. 🦆
 
 Though rain poured down and thick clouds obscured Mount Fuji, the moody scenery had its own appeal.
 
-![Scenery at Lake Tanuki](/jr-travel/fujinomiya-6.jpg)
+<img class="hover-zoom" src="/jr-travel/fujinomiya-6.jpg" alt="Scenery at Lake Tanuki">
 
 ## Shiraito Falls: Majestic Cascades of Silk-Like Streams
 
 After circling the lake, I took a bus to Shiraito Falls.
 
-![Shiraito Falls](/jr-travel/fujinomiya-7.jpg)
+<img class="hover-zoom" src="/jr-travel/fujinomiya-7.jpg" alt="Shiraito Falls">
 
 True to its reputation, Shiraito Falls was grand and invigorating, with water cascading down in silky streams.  
 However, unlike Lake Tanuki, its surroundings weren’t as scenic, and there wasn’t much else to see.
@@ -83,7 +83,7 @@ However, unlike Lake Tanuki, its surroundings weren’t as scenic, and there was
 Back at the entrance, I found a lively street lined with souvenir shops and restaurants.  
 I took my time browsing and enjoyed a hearty meal.
 
-![Barbecue](/jr-travel/fujinomiya-8.jpg)
+<img class="hover-zoom" src="/jr-travel/fujinomiya-8.jpg" alt="Barbecue">
 
 I then returned to Fujinomiya’s city center and wandered around leisurely.  
 The persistent rain and dreary atmosphere meant I didn’t take many photos.  
@@ -96,16 +96,3 @@ I did some light shopping, grabbed dinner, and returned to rest.
 
 I’m not sure if I’ll ever visit Fujinomiya again.  
 However, not being able to see Mount Fuji at all has made me even more determined to try trekking it someday.
-
-<style>
-  img {
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  }
-
-  img:hover {
-    transform: scale(1.05);
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-  }
-</style>

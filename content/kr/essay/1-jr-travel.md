@@ -40,7 +40,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
 
 <div class="link-box" data-number="1">
   <a href="/kr/jr-travel/1-yakushima" target="_blank">
-    <img src="/thumbnail/yakushima.jpg" alt="야쿠시마 썸네일">
+    <img class="hover-zoom" src="/thumbnail/yakushima.jpg" alt="야쿠시마 썸네일">
     <div>
       <h3>🌱 야쿠시마 여행기</h3>
     </div>
@@ -49,7 +49,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
 
 <div class="link-box" data-number="2">
   <a href="/kr/jr-travel/2-kagoshima" target="_blank">
-    <img src="/thumbnail/kagoshima.jpg" alt="가고시마 썸네일">
+    <img class="hover-zoom" src="/thumbnail/kagoshima.jpg" alt="가고시마 썸네일">
     <div>
       <h3>☀️ 가고시마 여행기</h3>
     </div>
@@ -58,7 +58,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
 
 <div class="link-box" data-number="3">
   <a href="/kr/jr-travel/3-fukuoka" target="_blank">
-    <img src="/thumbnail/fukuoka.jpg" alt="후쿠오카 썸네일">
+    <img class="hover-zoom" src="/thumbnail/fukuoka.jpg" alt="후쿠오카 썸네일">
     <div>
       <h3>⛅ 후쿠오카 여행기</h3>
     </div>
@@ -67,7 +67,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
 
 <div class="link-box" data-number="4">
   <a href="/kr/jr-travel/4-hiroshima" target="_blank">
-    <img src="/thumbnail/hiroshima.jpg" alt="히로시마 썸네일">
+    <img class="hover-zoom" src="/thumbnail/hiroshima.jpg" alt="히로시마 썸네일">
     <div>
       <h3>⛩️ 히로시마 여행기</h3>
     </div>
@@ -76,7 +76,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
 
 <div class="link-box" data-number="5">
   <a href="/kr/jr-travel/5-himeji" target="_blank">
-    <img src="/thumbnail/himeji.jpg" alt="히메지 썸네일">
+    <img class="hover-zoom" src="/thumbnail/himeji.jpg" alt="히메지 썸네일">
     <div>
       <h3>🏯 히메지 여행기</h3>
     </div>
@@ -85,7 +85,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
 
 <div class="link-box" data-number="6">
   <a href="/kr/jr-travel/6-kobe" target="_blank">
-    <img src="/thumbnail/kobe.jpg" alt="고베 썸네일">
+    <img class="hover-zoom" src="/thumbnail/kobe.jpg" alt="고베 썸네일">
     <div>
       <h3>🚠 고베 여행기</h3>
     </div>
@@ -94,7 +94,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
 
 <div class="link-box" data-number="7">
   <a href="/kr/jr-travel/7-nara" target="_blank">
-    <img src="/thumbnail/nara.jpg" alt="나라 썸네일">
+    <img class="hover-zoom" src="/thumbnail/nara.jpg" alt="나라 썸네일">
     <div>
       <h3>🦌 나라 여행기</h3>
     </div>
@@ -103,7 +103,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
 
 <div class="link-box" data-number="8">
   <a href="/kr/jr-travel/8-osaka" target="_blank">
-    <img src="/thumbnail/osaka.jpg" alt="오사카 썸네일">
+    <img class="hover-zoom" src="/thumbnail/osaka.jpg" alt="오사카 썸네일">
     <div>
       <h3>🌃 오사카 여행기</h3>
     </div>
@@ -112,7 +112,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
 
 <div class="link-box" data-number="9">
   <a href="/kr/jr-travel/9-amanohashidate" target="_blank">
-    <img src="/thumbnail/amanohashidate.jpg" alt="아마노하시다테 썸네일">
+    <img class="hover-zoom" src="/thumbnail/amanohashidate.jpg" alt="아마노하시다테 썸네일">
     <div>
       <h3>🏝️ 아마노하시다테 여행기</h3>
     </div>
@@ -121,7 +121,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
 
 <div class="link-box" data-number="10">
   <a href="/kr/jr-travel/10-kyoto" target="_blank">
-    <img src="/thumbnail/kyoto.jpg" alt="교토 썸네일">
+    <img class="hover-zoom" src="/thumbnail/kyoto.jpg" alt="교토 썸네일">
     <div>
       <h3>🎋 교토 여행기</h3>
     </div>
@@ -130,7 +130,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
 
 <div class="link-box" data-number="11">
   <a href="/kr/jr-travel/11-fujinomiya" target="_blank">
-    <img src="/thumbnail/fujinomiya.jpg" alt="후지노미야 썸네일">
+    <img class="hover-zoom" src="/thumbnail/fujinomiya.jpg" alt="후지노미야 썸네일">
     <div>
       <h3>🦆 후지노미야 여행기</h3>
     </div>
@@ -139,7 +139,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
 
 <div class="link-box" data-number="12">
   <a href="/kr/jr-travel/12-tokyo" target="_blank">
-    <img src="/thumbnail/tokyo.jpg" alt="도쿄 썸네일">
+    <img class="hover-zoom" src="/thumbnail/tokyo.jpg" alt="도쿄 썸네일">
     <div>
       <h3>🗼 도쿄 여행기</h3>
     </div>
@@ -148,7 +148,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
 
 <div class="link-box" data-number="13">
   <a href="/kr/jr-travel/13-sendai" target="_blank">
-    <img src="/thumbnail/sendai.jpg" alt="도쿄 썸네일">
+    <img class="hover-zoom" src="/thumbnail/sendai.jpg" alt="도쿄 썸네일">
     <div>
       <h3>🍁 센다이 여행기</h3>
     </div>
@@ -157,7 +157,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
 
 <div class="link-box" data-number="14">
   <a href="/kr/jr-travel/14-hakodate" target="_blank">
-    <img src="/thumbnail/hakodate.jpg" alt="하코다테 썸네일">
+    <img class="hover-zoom" src="/thumbnail/hakodate.jpg" alt="하코다테 썸네일">
     <div>
       <h3>🍔 하코다테 여행기</h3>
     </div>
@@ -166,16 +166,16 @@ thumbnail: /thumbnail/kagoshima-city.jpg
 
 <div class="link-box" data-number="15">
   <a href="/kr/jr-travel/15-sapporo" target="_blank">
-    <img src="/thumbnail/sapporo.jpg" alt="삿포로 썸네일">
+    <img class="hover-zoom" src="/thumbnail/sapporo.jpg" alt="삿포로 썸네일">
     <div>
       <h3>⭐ 삿포로 여행기</h3>
     </div>
   </a>
 </div>
 
-<div class="link-box" data-number="15">
+<div class="link-box" data-number="16">
   <a href="/kr/jr-travel/16-epilogue" target="_blank">
-    <img src="/thumbnail/jr-epilogue.jpg" alt="에필로그 썸네일">
+    <img class="hover-zoom" src="/thumbnail/jr-epilogue.jpg" alt="에필로그 썸네일">
     <div>
       <h3>🗾 에필로그</h3>
     </div>
@@ -183,17 +183,6 @@ thumbnail: /thumbnail/kagoshima-city.jpg
 </div>
 
 <style>
-  img {
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  }
-
-  img:hover {
-    transform: scale(1.05);
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-  }
-
   .link-box {
     position: relative;
     text-align: center;

@@ -23,19 +23,19 @@ This gave me a chance to enjoy a relaxing train ride instead of the Shinkansen.
 After getting off the train, I dropped off my luggage at the hotel and headed to a nearby café for lunch.  
 It was already around 2 PM by then.
 
-![Lunch at a café](/jr-travel/amanohashidate-1.jpg)
+<img class="hover-zoom" src="/jr-travel/amanohashidate-1.jpg" alt="Lunch at a café">
 
 Since I was only staying one night in Amanohashidate, I didn’t have much time.  
 I quickly finished lunch and headed to **Amanohashidate View Land**, a viewing spot offering a panoramic view of the area.
 
-![View from Amanohashidate View Land](/jr-travel/amanohashidate-2.jpg)
+<img class="hover-zoom" src="/jr-travel/amanohashidate-2.jpg" alt="View from Amanohashidate View Land">
 
 The scenery from above was undoubtedly worthy of its reputation as one of Japan's top three scenic views.  
 In fact, during this trip, I managed to visit all three—Miyajima in Hiroshima, Matsushima in Miyagi, and Amanohashidate in Kyoto.  
 Among them, Amanohashidate was the most stunning.  
 In my personal opinion, it is the most beautiful place in Japan.
 
-![A photo of me at Amanohashidate](/jr-travel/amanohashidate-3.jpg)
+<img class="hover-zoom" src="/jr-travel/amanohashidate-3.jpg" alt="A photo of me at Amanohashidate">
 
 The view was so mesmerizing that, for once, I decided to take a picture of myself.
 
@@ -44,11 +44,11 @@ The view was so mesmerizing that, for once, I decided to take a picture of mysel
 After soaking in the views, I returned to the hotel to check in.  
 Soon after, I set out to walk through the pine forest of Amanohashidate.
 
-![The path to Amanohashidate](/jr-travel/amanohashidate-4.jpg)
+<img class="hover-zoom" src="/jr-travel/amanohashidate-4.jpg" alt="The path to Amanohashidate">
 
 Though renting a bicycle was an option, I opted to walk slowly and capture more photos along the way.
 
-![The beach along Amanohashidate](/jr-travel/amanohashidate-5.jpg)
+<img class="hover-zoom" src="/jr-travel/amanohashidate-5.jpg" alt="The beach along Amanohashidate">
 
 If I lived nearby, I would probably take a walk here every day.  
 The area was peaceful, with few tourists, creating a serene and tranquil atmosphere that was deeply captivating.
@@ -57,25 +57,12 @@ The area was peaceful, with few tourists, creating a serene and tranquil atmosph
 
 The combination of the pine forest, the sea, and the surrounding town created a perfect harmony.
 
-![Scenic view of the sea at Amanohashidate](/jr-travel/amanohashidate-6.jpg)
+<img class="hover-zoom" src="/jr-travel/amanohashidate-6.jpg" alt="Scenic view of the sea at Amanohashidate">
 
-![Another view of the sea at Amanohashidate](/jr-travel/amanohashidate-7.jpg)
+<img class="hover-zoom" src="/jr-travel/amanohashidate-7.jpg" alt="Another view of the sea at Amanohashidate">
 
 It took me about an hour and a half to walk the path, from 4:10 PM to 5:40 PM.  
 As it got darker, the small-town charm became even more apparent, with fewer people around and many shops closing early.  
 I hurried to browse souvenir shops, enjoy dinner, and wrap up the day.
 
-![Kaisendon (seafood bowl)](/jr-travel/amanohashidate-8.jpg)
-
-<style>
-  img {
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  }
-
-  img:hover {
-    transform: scale(1.05);
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-  }
-</style>
+<img class="hover-zoom" src="/jr-travel/amanohashidate-8.jpg" alt="Kaisendon (seafood bowl)">

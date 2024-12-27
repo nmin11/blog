@@ -10,7 +10,7 @@ toc: true
 
 ## 잠시 재정비 시간
 
-![하카타 역 앞](/jr-travel/fukuoka-1.jpg)
+<img class="hover-zoom" src="/jr-travel/fukuoka-1.jpg" alt="하카타 역 앞">
 
 이제는 익숙해져버린 후쿠오카의 하카타 역으로 돌아왔다.  
 다시 새로운 여행지를 찾아 나서기 전에, 다음날 오전까지 잠시 재정비 시간을 갖기로 했다.  
@@ -28,7 +28,7 @@ toc: true
 후쿠마 역에 내려서 미야지다케 신사까지 걸어가는 내내 구름이 걷히길 바랬지만 끝끝내 구름이 걷히진 않았고 때때로 옅은 비까지 내렸다.  
 그래도 여기까지 와서 되돌아갈 수도 없는 노릇이었다.
 
-![미야지다케 신사](/jr-travel/fukuoka-2.jpg)
+<img class="hover-zoom" src="/jr-travel/fukuoka-2.jpg" alt="미야지다케 신사">
 
 결국 끝까지 휘황찬란한 저녁 노을은 보지 못했다.  
 빛의 길 '히카리노미치'가 아니라 구름의 길 '쿠모노미치'가 되어버렸다.  
@@ -37,10 +37,10 @@ toc: true
 <details>
   <summary class="summary-underline">📸 보정한 '쿠모노미치'의 사진들</summary>
   <div class="photo-grid">
-    <img src="/jr-travel/fukuoka-3.jpg" alt="쿠모노미치 1">
-    <img src="/jr-travel/fukuoka-4.jpg" alt="쿠모노미치 2">
-    <img src="/jr-travel/fukuoka-5.jpg" alt="쿠모노미치 3">
-    <img src="/jr-travel/fukuoka-6.jpg" alt="쿠모노미치 4">
+    <img class="hover-zoom" src="/jr-travel/fukuoka-3.jpg" alt="쿠모노미치 1">
+    <img class="hover-zoom" src="/jr-travel/fukuoka-4.jpg" alt="쿠모노미치 2">
+    <img class="hover-zoom" src="/jr-travel/fukuoka-5.jpg" alt="쿠모노미치 3">
+    <img class="hover-zoom" src="/jr-travel/fukuoka-6.jpg" alt="쿠모노미치 4">
   </div>
 </details>
 
@@ -48,14 +48,14 @@ toc: true
 
 그 다음날 아침에는 호텔 체크아웃을 하고 코인 라커에 짐을 맡기고 다자이후로 향했다.
 
-![다자이후](/jr-travel/fukuoka-7.jpg)
+<img class="hover-zoom" src="/jr-travel/fukuoka-7.jpg" alt="다자이후">
 
 다자이후는 상상 이상으로 볼거리가 많았다.  
 텐만구 정도만 기대하고 갔지만 근처에 작은 신사들이나 유원지, 그리고 규슈국립박물관까지, 생각보다 볼 게 너무 많았다.
 
-![다자이후 유원지](/jr-travel/fukuoka-8.jpg)
+<img class="hover-zoom" src="/jr-travel/fukuoka-8.jpg" alt="다자이후 유원지">
 
-![규슈국립박물관](/jr-travel/fukuoka-9.jpg)
+<img class="hover-zoom" src="/jr-travel/fukuoka-9.jpg" alt="규슈국립박물관">
 
 규슈국립박물관 문화재에 대한 설명들은 일본어와 영어로 되어 있기 때문에 솔직히 유심히 들여다보지는 않았다.  
 그럼에도 불구하고 흥미롭고 다양한 전시물들이 많아서 규슈의 역사와 문화를 몸으로 느낄 수 있었다.
@@ -63,9 +63,9 @@ toc: true
 <details>
   <summary class="summary-underline">📸 규슈국립박물관의 전시물들</summary>
   <div>
-    <img src="/jr-travel/fukuoka-10.jpg" alt="규슈국립박물관의 전시물 1">
-    <img src="/jr-travel/fukuoka-11.jpg" alt="규슈국립박물관의 전시물 2">
-    <img src="/jr-travel/fukuoka-12.jpg" alt="규슈국립박물관의 전시물 3">
+    <img class="hover-zoom" src="/jr-travel/fukuoka-10.jpg" alt="규슈국립박물관의 전시물 1">
+    <img class="hover-zoom" src="/jr-travel/fukuoka-11.jpg" alt="규슈국립박물관의 전시물 2">
+    <img class="hover-zoom" src="/jr-travel/fukuoka-12.jpg" alt="규슈국립박물관의 전시물 3">
   </div>
 </details>
 
@@ -75,7 +75,7 @@ toc: true
 
 텐만구는 확실히 식당 같은 시설들도 많고, 유유자적 걸어다니기에도 좋고, 여행하기에 좋은 곳이었다.
 
-![텐만구](/jr-travel/fukuoka-13.jpg)
+<img class="hover-zoom" src="/jr-travel/fukuoka-13.jpg" alt="텐만구">
 
 텐만구의 푸릇푸릇한 풍경을 뒤로 하고 나는 다시 후쿠오카 하카타로, 그리고 다시 히로시마로 향했다.
 
@@ -86,37 +86,11 @@ toc: true
 <details>
   <summary class="summary-underline">📸 Bonus Cuts</summary>
   <div>
-    <img src="/jr-travel/fukuoka-14.jpg" alt="텐진 호르몬">
+    <img class="hover-zoom" src="/jr-travel/fukuoka-14.jpg" alt="텐진 호르몬">
     <span>텐진 호르몬에서의 맛있는 식사 한 끼.</span>
-    <img src="/jr-travel/fukuoka-15.jpg" alt="마음에 들었던 그림 한 장">
+    <img class="hover-zoom" src="/jr-travel/fukuoka-15.jpg" alt="마음에 들었던 그림 한 장">
     <span>전통화인듯 하면서 아니메 같은 느낌도 드는 묘한 그림 한 장.</span>
-    <img src="/jr-travel/fukuoka-16.jpg" alt="텐만구 고양이">
+    <img class="hover-zoom" src="/jr-travel/fukuoka-16.jpg" alt="텐만구 고양이">
     <span>텐만구에서 만난 고양이.</span>
   </div>
 </details>
-
-<style>
-  img {
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  }
-
-  img:hover {
-    transform: scale(1.05);
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-  }
-
-  .photo-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 10px;
-  }
-  .photo-grid img {
-    width: 100%;
-  }
-
-  .summary-underline {
-    text-decoration: underline;
-  }
-</style>

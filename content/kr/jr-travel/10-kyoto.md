@@ -16,17 +16,17 @@ thumbnail: /thumbnail/kyoto.jpg
 오후에 아마노하시다테로부터 다시 교토로 돌아와서 아라시야마로 이동했다.  
 아라시야마는 헤이안 시대 때부터 귀족의 별장지로 사용되어 왔던 만큼, 볼거리도 많고 산책을 즐기기에도 좋았다.
 
-![아라시야마의 보트들](/jr-travel/kyoto-1.jpg)
+<img class="hover-zoom" src="/jr-travel/kyoto-1.jpg" alt="아라시야마의 보트들">
 
 아라시야마는 꽤나 넓고 들러볼 곳도 많은 관광지였다.  
 본격적으로 더 둘러보기 전에 배를 좀 채우기로 했다.
 
-![네기야끼](/jr-travel/kyoto-2.jpg)
+<img class="hover-zoom" src="/jr-travel/kyoto-2.jpg" alt="네기야끼">
 
 교토식 오코노미야끼라고도 불리는 **네기야끼**를 보고 몹시 궁금해져서 한 번 먹어봤다.  
 오코노미야끼에 비해 덜 자극적이고, 가볍게 간식으로 먹기에 좋은 양이었다.
 
-![대나무숲](/jr-travel/kyoto-3.jpg)
+<img class="hover-zoom" src="/jr-travel/kyoto-3.jpg" alt="대나무숲">
 
 그 이후에는 역시, 그 유명한 대나무숲을 안 가볼 수가 없었다.  
 길쭉한 대나무들이 빽빽하게 숲을 이루는 모습은 가히 장관이었다.  
@@ -34,16 +34,16 @@ thumbnail: /thumbnail/kyoto.jpg
 그래서 사실 신비로운 느낌도 좀 덜해지는 느낌이 들었다.  
 소도시의 낭만을 즐기고 와서 그런 것일까.
 
-![대나무숲 2](/jr-travel/kyoto-4.jpg)
+<img class="hover-zoom" src="/jr-travel/kyoto-4.jpg" alt="대나무숲 2">
 
 사실 아라시야마 이후에 금각사도 둘러보고 싶었지만 5시에 영업 종료이기 때문에 둘러볼 시간이 넉넉치 않아 보였다.  
 그래서 하는 수 없이 아라시야마를 더 깊숙이 둘러보기로 했다.
 
-![아라시야마 위쪽에서 본 교토시 전경](/jr-travel/kyoto-5.jpg)
+<img class="hover-zoom" src="/jr-travel/kyoto-5.jpg" alt="아라시야마 위쪽에서 본 교토시 전경">
 
 푸릇푸릇한 나무숲에 조금씩 가을의 색이 물들어가는 모습이 꽤나 예뻤다.
 
-![아라시야마의 절](/jr-travel/kyoto-6.jpg)
+<img class="hover-zoom" src="/jr-travel/kyoto-6.jpg" alt="아라시야마의 절">
 
 아쉽게도 교토 여행은 여기까지였다.  
 저녁에는 호텔 근처의 니시키 시장가를 구경하고 저녁도 먹었지만 사진을 남겨두지 못했다.  
@@ -56,16 +56,3 @@ thumbnail: /thumbnail/kyoto.jpg
 교토시에서 각 여행지로 이동하는 시간이 꽤 긴데, 그 점을 간과했기 때문에 이번 교토 여행 계획은 실패했다고 볼 수 있겠다.  
 그리고 사실 교토시의 수많은 여행객 틈에 끼어서 여행하는 것이 그렇게 즐거운 일은 아니었다.  
 그래서 다음에 또 교토를 들러서 못 즐긴 장소들을 다 가볼 수 있을지는 잘 모르겠다.
-
-<style>
-  img {
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  }
-
-  img:hover {
-    transform: scale(1.05);
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-  }
-</style>

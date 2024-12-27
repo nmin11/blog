@@ -14,42 +14,42 @@ toc: true
 JR 패스를 여행 2일차에 개시해서 패스를 최대한 더 많이 이용하려는 속셈이었다.  
 그래서 사실 여행 1일차는 바로 야쿠시마로 떠나는 일정이 아닌, **후쿠오카 맛보기**가 되었다.
 
-![하카타 역](/jr-travel/yakushima-1.jpg)
+<img class="hover-zoom" src="/jr-travel/yakushima-1.jpg" alt="하카타 역">
 
 낮에는 간단하게 하카타 역에서 소박한 쇼핑을 했고, 저녁에는 캐널시티와 나카스를 돌아다니며 후쿠오카의 야경을 즐겼다.
 
-![나카스](/jr-travel/yakushima-2.jpg)
+<img class="hover-zoom" src="/jr-travel/yakushima-2.jpg" alt="나카스">
 
 이튿날에는 신칸센을 타고 우선 가고시마를 향해 달렸다.  
 
-![가고시마 중앙역](/jr-travel/yakushima-3.jpg)
+<img class="hover-zoom" src="/jr-travel/yakushima-3.jpg" alt="가고시마 중앙역">
 
 가고시마 중앙역에 도착한 이후, 우선 트래블 센터에 방문해서 페리 선착장으로 가는 방법을 물어보았다.  
 트래블 센터에서는 페리 선착장 근처까지 가는 트램을 추천해줬지만 나는 페리 선착장의 위치만 확인하고나서 조금 여유롭게 걸어가기로 했다.
 
-![가고시마 패리 선착장으로 걸어가는 길](/jr-travel/yakushima-4.jpg)
+<img class="hover-zoom" src="/jr-travel/yakushima-4.jpg" alt="가고시마 패리 선착장으로 걸어가는 길">
 
 이런 로컬 분위기의 거리를 걷다보니 그제서야 '진짜로 일본 여행이 시작되었구나' 하는 생각이 들었다.
 
-![페리 선착장](/jr-travel/yakushima-5.jpg)
+<img class="hover-zoom" src="/jr-travel/yakushima-5.jpg" alt="패리 선착장">
 
 1시간 가까이 걸어서 페리 선착장에 도착했고, 2만엔 가량을 지불해서 야쿠시마 왕복 티켓을 구매했다.  
 배편도 제대로 알아보지 않고 왔던 터라 이런저런 우여곡절이 있었지만 어찌 되었든 내가 선정한 첫번째 일본 여행지, 야쿠시마를 향해 출발할 수 있었다.
 
 ## 일본인데 일본이 아닌 것 같은 섬
 
-![야쿠시마 선착장](/jr-travel/yakushima-6.jpg)
+<img class="hover-zoom" src="/jr-travel/yakushima-6.jpg" alt="야쿠시마 선착장">
 
 야쿠시마의 첫인상은 일본 초행인 내가 보기에도 본토와는 사뭇 다른 분위기를 가진 섬이었다.  
 1년 중 366일 비가 내린다는 소문처럼, 내가 섬에 도착하던 날에도 어딘가 우중충한 분위기가 무겁게 내려앉아 있었다.  
 푸른 해안가와 구름에 가려 끝이 보이지 않는 산, 그리고 그 사이에 들어선 소박한 마을들.  
 이러한 정경을 뒤로 하며, 버스를 타고 숙소로 이동했다.  
 
-![토마리기 가는 길](/jr-travel/yakushima-7.jpg)
+<img class="hover-zoom" src="/jr-travel/yakushima-7.jpg" alt="토마리기 가는 길">
 
 게스트하우스 '토마리기'는 야쿠시마 여행을 검색할 때 가장 많이 나오는 숙소였기 때문에 나도 호기심이 생겨서 하루 머물러 보기로 했다.
 
-![토마리기](/jr-travel/yakushima-8.jpg)
+<img class="hover-zoom" src="/jr-travel/yakushima-8.jpg" alt="토마리기">
 
 호텔 대신 게스트하우스를 선택할 때 가장 기대할 만한 것은 역시 '정감 있는 분위기'일 것이다.  
 토마리기는 해당 요소를 완벽하게 갖추고 있는 곳이었다.  
@@ -64,15 +64,15 @@ Bow와 함께 야쿠시마의 마켓들을 둘러보고, 동네 여기저기를 
 
 그리고 그 다음날 아침 일찍 일어나서 모노노케히메의 원천, 시라타니운스이쿄를 향해 떠났다.
 
-![토마리기를 지키는 고양이 신](/jr-travel/yakushima-9.jpg)
+<img class="hover-zoom" src="/jr-travel/yakushima-9.jpg" alt="토마리기를 지키는 고양이 신">
 
 토마리기의 정겨운 분위기, 예쁜 오드아이를 가진 하얀 고양이와는 작별이었다.
 
-![토마리기의 문](/jr-travel/yakushima-10.jpg)
+<img class="hover-zoom" src="/jr-travel/yakushima-10.jpg" alt="토마리기의 문">
 
 ## 원령공주의 숲
 
-![시라타니운스이쿄 도입부](/jr-travel/yakushima-11.jpg)
+<img class="hover-zoom" src="/jr-travel/yakushima-11.jpg" alt="시라타니운스이쿄 도입부">
 
 기대했던대로 시라타니운스이쿄는 온통 초록빛의 울창한 숲과 시원한 물줄기 소리로 나를 맞이해주었다.  
 
@@ -81,13 +81,13 @@ Bow와 함께 야쿠시마의 마켓들을 둘러보고, 동네 여기저기를 
 어딜 가도, 어딜 봐도 초록색의 대자연이 눈앞에 펼쳐졌다.  
 돌에도, 쓰러져 있는 나무에도 초록색 이끼가 뒤덮여 있는 것을 보니 정말로 모노노케히메의 숲 속에 들어와 있다는 것이 실감되었다.  
 
-![시라타니운스이쿄](/jr-travel/yakushima-12.jpg)
+<img class="hover-zoom" src="/jr-travel/yakushima-12.jpg" alt="시라타니운스이쿄">
 
-![시라타니운스이쿄 이끼 덮인 돌](/jr-travel/yakushima-13.jpg)
+<img class="hover-zoom" src="/jr-travel/yakushima-13.jpg" alt="시라타니운스이쿄 이끼 덮인 돌">
 
 저 위에, 모노노케히메에 등장하는 코다마들이 앉아있었다면 딱이었을텐데···.
 
-![시라타니운스이쿄 나무 밑동](/jr-travel/yakushima-14.jpg)
+<img class="hover-zoom" src="/jr-travel/yakushima-14.jpg" alt="시라타니운스이쿄 나무 밑동">
 
 시라타니운스이쿄의 정상까지 오르는 트레킹 코스는 4시간에서 5시간 정도 소요되었다.  
 한국에서도 그 정도의 등산은 충분히 해봤기 때문에 코스의 길이 자체는 큰 문제가 아니었다.  
@@ -125,17 +125,4 @@ Bow와 함께 야쿠시마의 마켓들을 둘러보고, 동네 여기저기를 
 기회가 된다면 다시 한번 야쿠시마에 가고 싶다.  
 대신 그때는 렌트카를 타고, 더 많은 기간 동안, 그리고 되도록이면 친구와 함께 가보고 싶다.
 
-![가고시마로 돌아오는 길](/jr-travel/yakushima-15.jpg)
-
-<style>
-  img {
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  }
-
-  img:hover {
-    transform: scale(1.05);
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-  }
-</style>
+<img class="hover-zoom" src="/jr-travel/yakushima-15.jpg" alt="가고시마로 돌아오는 길">

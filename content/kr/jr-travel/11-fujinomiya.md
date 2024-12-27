@@ -23,18 +23,18 @@ toc: true
 그래서 후지노미야에 도착한 첫 날 계획도 심플해졌다.  
 바로 후지산 세계유산센터를 구경하고 오미야요코초에서 야키소바를 먹는 것, 딱 2가지였다.
 
-![후지산 세계유산센터](/jr-travel/fujinomiya-1.jpg)
+<img class="hover-zoom" src="/jr-travel/fujinomiya-1.jpg" alt="후지산 세계유산센터">
 
 후지산 세계유산센터는 후지산의 역사를 소개해주고 후지산을 걷는 듯한 체험도 할 수 있는 시설이다.  
 후지산이 일본인들에게 어떤 의미였는지 알 수 있었고, 후지산에 참배하러 가는 모습도 영상으로 볼 수 있었다.  
 후지산을 가보지도, 보지도 못한 아쉬움을 여기서 조금이나마 달랬다.
 
-![오미야요코초](/jr-travel/fujinomiya-2.jpg)
+<img class="hover-zoom" src="/jr-travel/fujinomiya-2.jpg" alt="오미야요코초">
 
 시설을 쭉 돌아보고나서 먹거리 장터인 오미야요코초로 갔지만 비도 많이 오고 여행객들도 거의 없어서인지 문을 닫은 가게가 많았다.  
 그래도 구석구석 살펴보니 문을 연 야키소바 가게가 있어서 저녁을 해결할 수 있었다.
 
-![야키소바](/jr-travel/fujinomiya-3.jpg)
+<img class="hover-zoom" src="/jr-travel/fujinomiya-3.jpg" alt="야키소바">
 
 그리고 이 날 밤은 감기 기운이 제일 심했던 날이라 숙소로 돌아와서 씻고 바로 잤다.  
 거의 12시간은 넘게 잔 것 같다.  
@@ -48,11 +48,11 @@ toc: true
 그래서 그냥 후지노미야의 주요 여행지인 타누키 호수와 시라이토 폭포를 구경하기로 했다.  
 첫번째 목적지는 타누키 호수였다.
 
-![타누키 호수 앞](/jr-travel/fujinomiya-4.jpg)
+<img class="hover-zoom" src="/jr-travel/fujinomiya-4.jpg" alt="타누키 호수 앞">
 
 우산을 쓴 채로 타누키 호수를 한 바퀴 쭉 돌아보았다.
 
-![타누키 호수의 나무숲](/jr-travel/fujinomiya-5.jpg)
+<img class="hover-zoom" src="/jr-travel/fujinomiya-5.jpg" alt="타누키 호수의 나무숲">
 
 호수 자체 뿐만이 아니라 주변의 자연경관도 아름다웠다.  
 숲길 사이로 트레킹 코스도 있었지만 날씨도 안 좋고, 몸도 안 좋았기 때문에 패스했다.
@@ -67,13 +67,13 @@ toc: true
 
 비는 줄기차게 내리고, 구름이 잔뜩 끼어서 후지산을 볼 수도 없었지만 나름대로 운치 있는 경치였다.
 
-![타누키 호수의 풍경](/jr-travel/fujinomiya-6.jpg)
+<img class="hover-zoom" src="/jr-travel/fujinomiya-6.jpg" alt="타누키 호수의 풍경">
 
 ## 시라이토 폭포 : 흰 비단실들이 흘러내리는 듯한 장엄한 폭포
 
 호수 한 바퀴를 다 돌고 나서 다시 버스를 타고 시라이토 폭포로 내려왔다.
 
-![시라이토 폭포](/jr-travel/fujinomiya-7.jpg)
+<img class="hover-zoom" src="/jr-travel/fujinomiya-7.jpg" alt="시라이토 폭포">
 
 시라이토 폭포는 듣던대로 웅장하고, 속이 뻥 뚫리는 듯 시원하게 폭포가 떨어지는 곳이었다.  
 하지만 타누키 호수처럼 주변 자연 풍경까지 아름답지는 않고, 볼 것들이 한정적이었다.
@@ -82,7 +82,7 @@ toc: true
 
 그래도 폭포를 다 보고 다시 올라왔을 때 기념품 가게와 식당들이 즐비한 거리가 있어서, 구경도 좀 하고 맛있는 밥도 챙겨먹을 수 있었다.
 
-![바베큐](/jr-travel/fujinomiya-8.jpg)
+<img class="hover-zoom" src="/jr-travel/fujinomiya-8.jpg" alt="바베큐">
 
 그러고는 다시 후지노미야 시내로 돌아와서 설렁설렁 걸어다녔다.  
 비도 많이 오고 분위기도 칙칙해서 사진을 찍어두지는 않았지만 여행객도 굉장히 적고, 현지인은 거의 보이지도 않았다.  
@@ -95,16 +95,3 @@ toc: true
 
 후지노미야에 다시 올지는 잘 모르겠다.  
 하지만 후지산을 아예 보지도 못했던 만큼 오히려 언젠가 후지산 트레킹을 해보고 싶다는 오기가 생겼다.
-
-<style>
-  img {
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  }
-
-  img:hover {
-    transform: scale(1.05);
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-  }
-</style>

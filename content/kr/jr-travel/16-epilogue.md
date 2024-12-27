@@ -42,7 +42,7 @@ toc: true
 
 ### 가장 아름다운 성 : 오사카 성
 
-![오사카 성](/jr-travel/osaka-8.jpg)
+<img class="hover-zoom" src="/jr-travel/osaka-8.jpg" alt="오사카 성">
 
 이번 일본 여행 중에 성은 딱 2군데 밖에 방문해보지 못했다.  
 바로 **히메지 성**과 **오사카 성**이다.  
@@ -54,7 +54,7 @@ toc: true
 
 ### 가장 아름다운 풍경 : 아마노하시다테
 
-![아마노하시다테](/thumbnail/amanohashidate.jpg)
+<img class="hover-zoom" src="/thumbnail/amanohashidate.jpg" alt="아마노하시다테">
 
 이전 글에서도 밝혔지만, 아마노하시다테는 일본 3경 중에서도 제일 아름다웠다.  
 비단 전망대에 올라 신비한 자연의 광경을 바라보는 것 뿐만이 아니라 직접 숲속으로 들어가 걸어보는 재미도 만만치 않다.  
@@ -62,7 +62,7 @@ toc: true
 
 ### 생각보다 별로였던 풍경 : 마츠시마
 
-![마츠시마](/jr-travel/sendai-6.jpg)
+<img class="hover-zoom" src="/jr-travel/sendai-6.jpg" alt="마츠시마">
 
 일본 3대 절경 중 하나인 마츠시마는 한눈에 담기에는 힘든 절경이었다.  
 게다가 광활한 리아스식 해안도 내가 태국에서 경험한 치우란 호수가 훨씬 더 장엄하고 아름다웠다.
@@ -74,7 +74,7 @@ toc: true
 하지만 저녁식사를 너무 무겁게 하면 수면 시간에 악영향을 끼치거나 소화불량이 생길 수도 있기 때문에 무리해서 먹는 일이 없도록 자제했고, 점심식사 때에도 신칸센을 타고 이동하는 시간이면 간단하게 먹을 수 있는 **에키벤또**(역에서 파는 도시락)를 즐겨먹기도 했다.  
 장기여행이었다보니 맛있는 것을 실컷 먹기보다는 건강하게 잘 챙겨먹는 것이 더 중요했던 것이다.
 
-![돈코츠 라멘](/jr-travel/sapporo-22.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-22.jpg" alt="돈코츠 라멘">
 
 이런 방식으로 먹다보니 내 입맛에 가장 잘 맞는 음식은 **돈코츠 라멘**이었다.  
 일본에 와서도 한국식 입맛을 미처 떨쳐내지 못한 것이다.  
@@ -85,7 +85,7 @@ toc: true
 
 ### 생각보다 별로였던 음식 : 몬자야끼
 
-![몬자야끼](/jr-travel/tokyo-32.jpg)
+<img class="hover-zoom" src="/jr-travel/tokyo-32.jpg" alt="몬자야끼">
 
 여행 전에 한국에서 어느 일본어 모임에서 참여한 적이 있었는데, 거기에서 **몬자야끼**를 추천받았다.  
 도쿄에 가면 이 음식을 꼭 먹어봐야 한다는 것이었다.  
@@ -98,7 +98,7 @@ toc: true
 히메지, 나라, 아마노하시다테 같은 비교적 작은 여행지를 제외하면 사실 꽉 채워서 즐긴 여행지가 거의 없었다.  
 기차 여행의 특성상 모든 지역들을 '맛보기' 수준으로 즐긴 뒤 아쉬운대로 떠나갈 수밖에 없었던 것이다.
 
-![히로시마](/thumbnail/hiroshima.jpg)
+<img class="hover-zoom" src="/thumbnail/hiroshima.jpg" alt="히로시마">
 
 그럼에도 불구하고 히로시마는 나름대로 모든 컨텐츠를 웬만큼 다 즐겨봤다고 볼 수 있다.  
 **오코노미야끼**, **이츠쿠시마 신사**와 원폭 돔이 있는 **평화기념공원**까지, 히로시마의 굵직한 여행 컨텐츠를 모두 즐겨봤다.  
@@ -106,7 +106,7 @@ toc: true
 
 ### 한 달 살아보고 싶은 도시 : 고베
 
-![고베](/jr-travel/kobe-2.jpg)
+<img class="hover-zoom" src="/jr-travel/kobe-2.jpg" alt="고베">
 
 고베는 뭔가 정감 있는 도시로서 내 기억 속에 남았다.  
 무심코 방문한 파스타 가게에서 예상치 못한 친절한 응대에 적잖이 감동을 받았기 때문이다.  
@@ -117,7 +117,7 @@ toc: true
 
 ### 친절함이 느껴졌던 도시 : 후지노미야
 
-![후지노미야](/jr-travel/fujinomiya-2.jpg)
+<img class="hover-zoom" src="/jr-travel/fujinomiya-2.jpg" alt="후지노미야">
 
 내게 있어서 후지노미야는 아픔과 쓸쓸함과 따뜻함이 섞여 있는 곳으로 기억에 남았다.  
 교토에서 달고 온 감기 기운이 피크를 찍어서 어느 밤에는 12시간 넘게 수면을 취해야 했고, 이 도시에 있는 내내 폭우가 줄기차게 쏟아졌기 때문에 썩 유쾌한 여행은 아니었던 것이다.  
@@ -130,7 +130,7 @@ toc: true
 
 ### 자연의 웅장함 : 야쿠시마
 
-![시라타니운스이쿄](/thumbnail/yakushima.jpg)
+<img class="hover-zoom" src="/thumbnail/yakushima.jpg" alt="시라타니운스이쿄">
 
 '원령공주'를 감상하고, 또 '퇴사는 여행'이라는 책을 읽고서 결심하게 된 **야쿠시마** 여행은 사실상 이번 여행의 첫 출발지였다.  
 사실 큐슈 본토와 야쿠시마 왕복은 JR 패스를 활용한 기차 여행 컨셉에는 그닥 부합하지 않는 것이었다.  
@@ -142,7 +142,7 @@ toc: true
 
 ### 연인과 함께하고 싶은 곳 : 홋카이도
 
-![비행기에서 내려다 본 홋카이도 전경](/jr-travel/sapporo-23.jpg)
+<img class="hover-zoom" src="/jr-travel/sapporo-23.jpg" alt="비행기에서 내려다 본 홋카이도 전경">
 
 일본을 여행하면서 수많은 커플들을 구경하고 부럽다는 감정을 느끼는 것은 거의 일상이 되어버렸었다.  
 그만큼 나도 다음에는 연인과 함께 일본을 오거나, 아니면 일본에서 새로운 인연을 만나고 싶다는 생각을 품게 되는 것은 자연스러운 인과관계였다.  
@@ -230,17 +230,6 @@ toc: true
 이에 대한 결과는 다음에 또 다른 에세이에서 적어내려가야만 할 것 같다.
 
 <style>
-  img {
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  }
-
-  img:hover {
-    transform: scale(1.05);
-    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
-  }
-
   .highlight-quote {
     position: relative;
     margin: 20px auto;
