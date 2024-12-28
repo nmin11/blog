@@ -183,7 +183,7 @@ thumbnail: /thumbnail/kagoshima-city.jpg
 </div>
 
 <div class="menu-link">
-  <a href="/kr/jr-travel" class="menu-button">메뉴 화면으로 보기</a>
+  <a href="/kr/jr-travel" class="menu-button" target="_blank">메뉴 화면으로 보기</a>
 </div>
 
 <style>
@@ -242,10 +242,11 @@ thumbnail: /thumbnail/kagoshima-city.jpg
   }
 
   .menu-button {
+    position: relative;
     width: 100%;
     display: inline-block;
     padding: 0.75rem 1.5rem;
-    background-color: #3490dc; /* 기본 색상 */
+    background-color: #3490dc;
     color: white;
     font-size: 1rem;
     font-weight: 600;
@@ -256,8 +257,21 @@ thumbnail: /thumbnail/kagoshima-city.jpg
   }
 
   .menu-button:hover {
-    background-color: #2779bd; /* 호버 색상 */
+    background-color: #2779bd;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     transform: scale(1.05);
+  }
+
+  .menu-button::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    right: 1.5rem;
+    transform: translateY(-50%);
+    width: 10px;
+    height: 10px;
+    border-right: 2px solid white;
+    border-top: 2px solid white;
+    transform: translateY(-50%) rotate(45deg);
   }
 </style>

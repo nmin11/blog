@@ -183,7 +183,7 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
 </div>
 
 <div class="menu-link">
-  <a href="/en/jr-travel" class="menu-button">View in Menu Screen</a>
+  <a href="/en/jr-travel" class="menu-button" target="_blank">View in Menu Screen</a>
 </div>
 
 <style>
@@ -242,10 +242,11 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
   }
 
   .menu-button {
+    position: relative;
     width: 100%;
     display: inline-block;
     padding: 0.75rem 1.5rem;
-    background-color: #3490dc; /* 기본 색상 */
+    background-color: #3490dc;
     color: white;
     font-size: 1rem;
     font-weight: 600;
@@ -256,8 +257,21 @@ With that, I planned a 24-day trip to Japan: the maximum 21-day JR Pass duration
   }
 
   .menu-button:hover {
-    background-color: #2779bd; /* 호버 색상 */
+    background-color: #2779bd;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     transform: scale(1.05);
+  }
+
+  .menu-button::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    right: 1.5rem;
+    transform: translateY(-50%);
+    width: 10px;
+    height: 10px;
+    border-right: 2px solid white;
+    border-top: 2px solid white;
+    transform: translateY(-50%) rotate(45deg);
   }
 </style>
