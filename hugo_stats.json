@@ -145,6 +145,8 @@
       "md:p-0",
       "md:relative",
       "md:w-auto",
+      "menu-button",
+      "menu-link",
       "min-h-screen",
       "mobile-menu",
       "mobile-menu-button",
