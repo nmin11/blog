@@ -8,6 +8,20 @@ thumbnail: /thumbnail/jr-epilogue.jpg
 toc: true
 ---
 
+<script>
+  const correctPassword = "10151107";
+  const userPassword = prompt("Hint: Japan travel dates in numbers only, excluding the year");
+
+  if (userPassword !== correctPassword) {
+    alert("Incorrect password.");
+    if (window.history.length > 1) {
+      window.history.back();
+    } else {
+      window.close();
+    }
+  }
+</script>
+
 ## Repeated Wanderings
 
 Looking back, I realize I've wandered aimlessly many times throughout my life.

@@ -8,6 +8,20 @@ thumbnail: /thumbnail/jr-epilogue.jpg
 toc: true
 ---
 
+<script>
+  const correctPassword = "10151107";
+  const userPassword = prompt("Hint: 일본 여행 기간을 연도 빼고 숫자로만 표기");
+
+  if (userPassword !== correctPassword) {
+    alert("잘못된 비밀번호입니다.");
+    if (window.history.length > 1) {
+      window.history.back();
+    } else {
+      window.close();
+    }
+  }
+</script>
+
 ## 거듭되는 방황들
 
 돌이켜보면 나는 살아오면서 수차례 방황을 해왔다.  
