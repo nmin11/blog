@@ -77,7 +77,7 @@ DefaultContentLanguageInSubdir = true
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2024 - Loko · All rights reserved"
+  copyright = "Copyright © 2025 - Loko · All rights reserved"
   favicon = "/favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
