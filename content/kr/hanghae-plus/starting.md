@@ -1,8 +1,9 @@
 ---
 author: Loko
-title: About Me
+title: 항해 플러스 - 시작하는 마음
 date: 2025-03-22
 description:
+tags: ["항해플러스", "항해99"]
 lastmod: 2025-03-22
 ---
 
