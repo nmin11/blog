@@ -1,10 +1,10 @@
 ---
 author: Loko
-title: 항해 플러스 - 2주차 WIL
-date: 2025-04-04
+title: 항해 플러스 - 3주차 WIL
+date: 2025-04-11
 description:
 tags: ["항해플러스", "항해99"]
-lastmod: 2025-04-04
+lastmod: 2025-04-11
 ---
 
 ## 1. 내가 선택한 시나리오와 도메인 모델링 방향
