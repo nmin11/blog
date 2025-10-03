@@ -70,6 +70,8 @@ The most regrettable part of this project is that I left MongoDB's IP restrictio
 
 Among the internal logic, the duplicate feed checking logic was quite tricky. During the initial Discord channel registration, I gave the wrong `lastSentTime` value and experienced message spam. I resolved this by setting the transmission time and URL based on the latest post of that feed when registering a new feed. Another problem was that when a feed posted 2 or more items within one scheduling period, the same feeds would appear in the next scheduling. This seemed to be because RSS files like `rss.xml` are displayed in reverse chronological order, passing through the time and URL-based duplicate check logic. So I added a flag value and modified it to update the last sent post information for the first item.
 
+[Feednyang GitHub Repository](https://github.com/nmin11/feednyang)
+
 ## What I Learned
 
 First, it felt rewarding as it's my first output created with an AI Agent. I should continue to actively utilize AI tools to maximize output going forward.
