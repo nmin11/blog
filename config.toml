@@ -57,6 +57,31 @@ DefaultContentLanguageInSubdir = true
     #     url = "essay"
     #     weight = 3
 
+  [languages.jp]
+    contentDir = "content/jp" # Japanese
+    weight = 3
+    languageName = "日本語"
+    title = "ロコ"
+    [languages.jp.params]
+      introTitle = "こんにちは！ナムグン・ミンです"
+      introSubtitle = "🧑‍💻 3年目のバックエンドエンジニアです。 ✍ 文章を書きながら考えを整理する過程を楽しんでいます。 🧙 INFJです。 👯 仲間と共に成長できる環境を目指しています。 😊 読書、映画鑑賞、PCゲーム、ランニングが好きです。"
+      introPhoto = "/avatar.webp"
+      logo = "/loko-logo.webp"
+    [[languages.jp.menu.main]]
+        name = "紹介"
+        url = "about"
+        weight = 1
+
+    [[languages.jp.menu.main]]
+        name = "ブログ"
+        url = "blog"
+        weight = 2
+
+    # [[languages.jp.menu.main]]
+    #     name = "エッセイ"
+    #     url = "essay"
+    #     weight = 3
+
 [params]
   # Enable the darkmode toggle in header
   darkModeToggle = true
