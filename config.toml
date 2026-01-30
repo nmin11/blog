@@ -14,7 +14,7 @@ DefaultContentLanguageInSubdir = true
     title = "로코"
     [languages.kr.params]
       introTitle = "안녕하세요! 남궁민입니다"
-      introSubtitle = "🧑‍💻 3년차 백엔드 개발자입니다. ✍ 글을 쓰면서 생각을 정리하는 과정을 즐깁니다. 🧙 INFJ입니다. 👯 동료와 함께 성장하는 환경을 지향합니다. 😊 독서, 영화 감상, 컴퓨터 게임, 달리기를 좋아합니다."
+      introSubtitle = "🧑‍💻 3년차 백엔드 개발자입니다. ✍ 글을 쓰면서 생각을 정리하는 과정을 즐깁니다. 한 달에 한 번은 블로그 글을 작성해보려고 합니다. 🧙 INFJ입니다. 👯 동료와 함께 성장하는 환경을 지향합니다. 😊 독서, 영화 감상, 컴퓨터 게임, 달리기를 좋아합니다. 🧗 요즘에는 클라이밍에 푹 빠져 있습니다."
       introPhoto = "/avatar.webp"
       logo = "/loko-logo.webp"
     [[languages.kr.menu.main]]
@@ -39,7 +39,7 @@ DefaultContentLanguageInSubdir = true
     title = "Loko"
     [languages.en.params]
       introTitle = "Hey! I'm Loko"
-      introSubtitle = "🧑‍💻 I'm a backend developer with 2 years of experience. ✍ I enjoy the process of writing to organize my thoughts. 👯 I aspire to work in an environment where I can grow together with my colleagues. 😊 I enjoy reading books, watching movies, playing computer games, and running."
+      introSubtitle = "🧑‍💻 I'm a backend developer with 2 years of experience. ✍ I enjoy the process of writing to organize my thoughts. I plan to write a blog post once a month. 👯 I aspire to work in an environment where I can grow together with my colleagues. 😊 I enjoy reading books, watching movies, playing computer games, and running. 🧗 Lately I've been hooked on climbing."
       introPhoto = "/avatar.webp"
       logo = "/loko-logo.webp"
     [[languages.en.menu.main]]
@@ -64,7 +64,7 @@ DefaultContentLanguageInSubdir = true
     title = "ロコ"
     [languages.jp.params]
       introTitle = "こんにちは！ナムグン・ミンです"
-      introSubtitle = "🧑‍💻 3年目のバックエンドエンジニアです。 ✍ 文章を書きながら考えを整理する過程を楽しんでいます。 🧙 INFJです。 👯 仲間と共に成長できる環境を目指しています。 😊 読書、映画鑑賞、PCゲーム、ランニングが好きです。"
+      introSubtitle = "🧑‍💻 3年目のバックエンドエンジニアです。 ✍ 文章を書きながら考えを整理する過程を楽しんでいます。 月に一度はブログ記事を書こうと思います。 🧙 INFJです。 👯 仲間と共に成長できる環境を目指しています。 😊 読書、映画鑑賞、PCゲーム、ランニングが好きです。 🧗 最近はクライミングに夢中です。"
       introPhoto = "/avatar.webp"
       logo = "/loko-logo.webp"
     [[languages.jp.menu.main]]
