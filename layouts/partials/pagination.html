@@ -1,18 +1,35 @@
 {{ $paginator := .Paginator }}
 {{ if gt $paginator.TotalPages 1 }}
-<nav class="flex items-center justify-center space-x-1 mt-4">
+<nav class="flex items-center justify-center gap-1">
   {{ if $paginator.HasPrev }}
-  <a href="{{ $paginator.Prev.URL }}" class="px-3 py-2 text-sm border rounded hover:bg-gray-100 dark:hover:bg-gray-700">&laquo;</a>
+  <a href="{{ $paginator.Prev.URL }}"
+    class="px-3 py-1 rounded cursor-pointer hover:bg-gray-800 hover:text-white dark:hover:bg-gray-500 dark:hover:text-white">
+    &laquo;
+  </a>
+  {{ else }}
+  <span class="px-3 py-1 rounded text-gray-400 cursor-not-allowed">&laquo;</span>
   {{ end }}
+
   {{ range $paginator.Pagers }}
   {{ if eq . $paginator }}
-  <span class="px-3 py-2 text-sm border rounded bg-blue-500 text-white">{{ .PageNumber }}</span>
+  <span class="px-3 py-1 rounded bg-gray-800 text-white dark:bg-gray-300 dark:text-gray-900">
+    {{ .PageNumber }}
+  </span>
   {{ else }}
-  <a href="{{ .URL }}" class="px-3 py-2 text-sm border rounded hover:bg-gray-100 dark:hover:bg-gray-700">{{ .PageNumber }}</a>
+  <a href="{{ .URL }}"
+    class="px-3 py-1 rounded cursor-pointer hover:bg-gray-800 hover:text-white dark:hover:bg-gray-500 dark:hover:text-white">
+    {{ .PageNumber }}
+  </a>
   {{ end }}
   {{ end }}
+
   {{ if $paginator.HasNext }}
-  <a href="{{ $paginator.Next.URL }}" class="px-3 py-2 text-sm border rounded hover:bg-gray-100 dark:hover:bg-gray-700">&raquo;</a>
+  <a href="{{ $paginator.Next.URL }}"
+    class="px-3 py-1 rounded cursor-pointer hover:bg-gray-800 hover:text-white dark:hover:bg-gray-500 dark:hover:text-white">
+    &raquo;
+  </a>
+  {{ else }}
+  <span class="px-3 py-1 rounded text-gray-400 cursor-not-allowed">&raquo;</span>
   {{ end }}
 </nav>
 {{ end }}
