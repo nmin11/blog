@@ -1,0 +1,59 @@
+# Content
+- id: postedOnDate
+  translation: "投稿日 {{ . }}"
+- id: lastModified
+  translation: "(最終更新日 {{ . }})"
+- id: translationsLabel
+  translation: "言語を選択: "
+- id: translationsSeparator
+  translation: "、"
+- id: readMore
+  translation: "続きを読む"
+- id: morePosts
+  translation: "他の記事"
+- id: olderPosts
+  translation: "古い記事"
+- id: newerPosts
+  translation: "新しい記事"
+- id: previousPost
+  translation: "前の記事"
+- id: nextPost
+  translation: "次の記事"
+- id: readTime
+  one: "1分で読めます"
+  other: "{{.Count}}分で読めます"
+- id: words
+  one: "1文字"
+  other: "{{.Count}}文字"
+
+# 404 page
+- id: pageNotFound
+  translation: "このページは存在しません。(404エラー)"
+- id: goHome
+  translation: "ホームへ戻る"
+
+# Navigation
+- id: toggleNavigation
+  translation: "ナビゲーション切り替え"
+- id: languageSwitcherLabel
+  translation: "言語"
+- id: gcseLabelShort
+  translation: "検索"
+- id: gcseLabelLong
+  translation: "{{ .Site.Title }} を検索"
+- id: gcseClose
+  translation: "閉じる"
+
+# Search
+- id: searchPlaceholder
+  translation: "検索ワードを入力してください"
+- id: searchResults
+  translation: "検索結果"
+- id: searchNoResults
+  translation: "検索結果がありません"
+- id: searchNoResultsDesc
+  translation: "別の検索ワードをお試しください"
+
+# Related posts
+- id: seeAlso
+  translation: "関連記事"

@@ -10,7 +10,7 @@ DefaultContentLanguageInSubdir = true
   [languages.kr]
     contentDir = "content/kr" # Korean
     weight = 1
-    languageName = "Korean"
+    languageName = "한국어"
     title = "로코"
     [languages.kr.params]
       introTitle = "안녕하세요! 남궁민입니다"
@@ -102,7 +102,7 @@ DefaultContentLanguageInSubdir = true
   ]
 
   # Custom copyright - optional
-  copyright = "Copyright © 2025 - Loko · All rights reserved"
+  copyright = "Copyright © 2026 - Loko · All rights reserved"
   favicon = "/favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode

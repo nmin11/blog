@@ -1,0 +1,59 @@
+# Content
+- id: postedOnDate
+  translation: "발행일 {{ . }}"
+- id: lastModified
+  translation: "(마지막 수정일 {{ . }})"
+- id: translationsLabel
+  translation: "다른 언어 선택: "
+- id: translationsSeparator
+  translation: ", "
+- id: readMore
+  translation: "더 보기"
+- id: morePosts
+  translation: "더 많은 글"
+- id: olderPosts
+  translation: "이전 글"
+- id: newerPosts
+  translation: "최신 글"
+- id: previousPost
+  translation: "이전 글"
+- id: nextPost
+  translation: "다음 글"
+- id: readTime
+  one: "1분 소요"
+  other: "{{.Count}}분 소요"
+- id: words
+  one: "1 단어"
+  other: "{{.Count}} 단어"
+
+# 404 page
+- id: pageNotFound
+  translation: "이런, 페이지를 찾을 수 없습니다. (404 오류)"
+- id: goHome
+  translation: "홈으로 돌아가기"
+
+# Navigation
+- id: toggleNavigation
+  translation: "내비게이션 토글"
+- id: languageSwitcherLabel
+  translation: "언어"
+- id: gcseLabelShort
+  translation: "검색"
+- id: gcseLabelLong
+  translation: "{{ .Site.Title }} 검색"
+- id: gcseClose
+  translation: "닫기"
+
+# Search
+- id: searchPlaceholder
+  translation: "검색어를 입력하세요"
+- id: searchResults
+  translation: "검색 결과"
+- id: searchNoResults
+  translation: "검색 결과가 없습니다"
+- id: searchNoResultsDesc
+  translation: "다른 검색어로 시도해보세요"
+
+# Related posts
+- id: seeAlso
+  translation: "함께 보기"
