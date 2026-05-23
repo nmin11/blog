@@ -1,0 +1,107 @@
+<div class="flex items-center gap-6 my-6 py-4 border-t border-b border-gray-200 dark:border-gray-700 not-prose">
+  <span id="views-count" class="flex items-center gap-1.5 text-sm text-gray-500 dark:text-gray-400">
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <circle cx="12" cy="12" r="2" />
+      <path d="M22 12c-2.667 4.667 -6 7 -10 7s-7.333 -2.333 -10 -7c2.667 -4.667 6 -7 10 -7s7.333 2.333 10 7" />
+    </svg>
+    <span id="views-num">—</span>
+  </span>
+  <button id="likes-btn" class="flex items-center gap-1.5 text-sm text-gray-500 dark:text-gray-400 hover:text-red-500 dark:hover:text-red-400 transition-colors cursor-pointer">
+    <svg id="heart-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <path d="M19.5 12.572l-7.5 7.428l-7.5 -7.428a5 5 0 1 1 7.5 -6.566a5 5 0 1 1 7.5 6.572" />
+    </svg>
+    <span id="likes-num">—</span>
+  </button>
+</div>
+
+<script>
+(function () {
+  var SUPABASE_URL = 'https://auhsvgprtaokysdglxce.supabase.co';
+  var SUPABASE_KEY = 'sb_publishable_b9GgKS5emR1mlZ0QGbmu0A_r8TEclZa';
+  var slug = window.location.pathname;
+  var LIKED_KEY = 'liked:' + slug;
+
+  var headers = {
+    'apikey': SUPABASE_KEY,
+    'Authorization': 'Bearer ' + SUPABASE_KEY,
+    'Content-Type': 'application/json'
+  };
+
+  function apiFetch(path, options) {
+    var opts = options || {};
+    opts.headers = headers;
+    return fetch(SUPABASE_URL + path, opts).then(function (res) {
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      if (res.status !== 204) return res.json();
+    });
+  }
+
+  function init() {
+    apiFetch('/rest/v1/rpc/increment_views', {
+      method: 'POST',
+      body: JSON.stringify({ post_slug: slug })
+    }).then(function () {
+      return apiFetch('/rest/v1/posts?slug=eq.' + encodeURIComponent(slug) + '&select=views,likes');
+    }).then(function (rows) {
+      var stats = (rows && rows[0]) ? rows[0] : { views: 0, likes: 0 };
+      document.getElementById('views-num').textContent = stats.views;
+      document.getElementById('likes-num').textContent = stats.likes;
+    }).catch(function (e) { console.error('post-stats:', e); });
+
+    var btn = document.getElementById('likes-btn');
+    var icon = document.getElementById('heart-icon');
+
+    if (localStorage.getItem(LIKED_KEY)) {
+      btn.classList.add('text-red-500', 'dark:text-red-400');
+      icon.setAttribute('fill', 'currentColor');
+    }
+
+    btn.addEventListener('click', function () {
+      if (btn.disabled) return;
+      btn.disabled = true;
+      btn.style.opacity = '0.5';
+
+      var liked = !!localStorage.getItem(LIKED_KEY);
+      var likesEl = document.getElementById('likes-num');
+      var prev = parseInt(likesEl.textContent) || 0;
+
+      if (liked) {
+        localStorage.removeItem(LIKED_KEY);
+        btn.classList.remove('text-red-500', 'dark:text-red-400');
+        icon.setAttribute('fill', 'none');
+        likesEl.textContent = prev - 1;
+      } else {
+        localStorage.setItem(LIKED_KEY, '1');
+        btn.classList.add('text-red-500', 'dark:text-red-400');
+        icon.setAttribute('fill', 'currentColor');
+        likesEl.textContent = prev + 1;
+      }
+
+      var rpc = liked ? 'decrement_likes' : 'increment_likes';
+      apiFetch('/rest/v1/rpc/' + rpc, {
+        method: 'POST',
+        body: JSON.stringify({ post_slug: slug })
+      }).catch(function (e) {
+        console.error('post-stats likes:', e);
+        if (liked) {
+          localStorage.setItem(LIKED_KEY, '1');
+          btn.classList.add('text-red-500', 'dark:text-red-400');
+          icon.setAttribute('fill', 'currentColor');
+        } else {
+          localStorage.removeItem(LIKED_KEY);
+          btn.classList.remove('text-red-500', 'dark:text-red-400');
+          icon.setAttribute('fill', 'none');
+        }
+        likesEl.textContent = prev;
+      }).finally(function () {
+        btn.disabled = false;
+        btn.style.opacity = '';
+      });
+    });
+  }
+
+  init();
+})();
+</script>
