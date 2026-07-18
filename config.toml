@@ -10,7 +10,7 @@ DefaultContentLanguageInSubdir = true
   [languages.kr]
     contentDir = "content/kr" # Korean
     weight = 1
-    languageName = "한국어"
+    label = "한국어"
     title = "로코"
     [languages.kr.params]
       introTitle = "안녕하세요! 남궁민입니다"
@@ -35,7 +35,7 @@ DefaultContentLanguageInSubdir = true
   [languages.en]
     contentDir = "content/en" #English
     weight = 2
-    languageName = "English"
+    label = "English"
     title = "Loko"
     [languages.en.params]
       introTitle = "Hey! I'm Loko"
@@ -60,7 +60,7 @@ DefaultContentLanguageInSubdir = true
   [languages.jp]
     contentDir = "content/jp" # Japanese
     weight = 3
-    languageName = "日本語"
+    label = "日本語"
     title = "ロコ"
     [languages.jp.params]
       introTitle = "こんにちは！ナムグン・ミンです"
@@ -185,6 +185,11 @@ DefaultContentLanguageInSubdir = true
 
 [build]
   writeStats = true
+
+# Hugo 0.163+ runs Node.js tools (postcss) under the Node permission model,
+# which breaks postcss-import's module resolution. Allow all read paths.
+[security.node.permissions]
+  allowread = ["*"]
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
