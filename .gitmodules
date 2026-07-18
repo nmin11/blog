@@ -1,6 +1,7 @@
 [submodule "themes/blist"]
 	path = themes/blist
-	url = https://github.com/apvarun/blist-hugo-theme.git
+	url = git@github.com:nmin11/blist-hugo-theme.git
+	branch = blog
 	ignore = dirty
 [submodule "public"]
 	path = public
