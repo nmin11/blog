@@ -6,6 +6,9 @@ on:
     - cron: "0 0 * * 2,5"
   workflow_dispatch:
 
+permissions:
+  actions: write
+
 jobs:
   ping:
     runs-on: ubuntu-latest
@@ -19,3 +22,12 @@ jobs:
             "$SUPABASE_URL/rest/v1/posts?select=slug&limit=1" \
             -H "apikey: $SUPABASE_KEY" \
             -H "Authorization: Bearer $SUPABASE_KEY"
+
+      # 리포에 60일간 커밋이 없으면 GitHub가 스케줄 워크플로를 자동 비활성화함.
+      # 매 실행마다 워크플로를 다시 enable 해서 60일 타이머를 리셋한다.
+      - name: Reset GitHub 60-day inactivity timer
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api -X PUT \
+            "repos/${GITHUB_REPOSITORY}/actions/workflows/supabase-keepalive.yml/enable"
