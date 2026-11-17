@@ -5,5 +5,5 @@
 	ignore = dirty
 [submodule "public"]
 	path = public
-	url = https://github.com/nmin11/nmin11.github.io.git
+	url = git@github.com:nmin11/nmin11.github.io.git
 	ignore = all
